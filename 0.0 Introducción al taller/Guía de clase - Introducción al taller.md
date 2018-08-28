@@ -1,7 +1,6 @@
+# Introducción a Estación la Paz 2
 
-# Introducción al taller
-
-**Módulo III - Proyectos reales**
+**Módulo 0 - Introducción al Taller**
 
 ## Objetivos
 
@@ -9,7 +8,7 @@
 
 ## Actividades
 
-* **nombre actividad**: descripción
+- **nombre actividad**: descripción
 
 ## Conceptos
 

@@ -1,6 +1,6 @@
 # Nombre de la clase
 
-**Módulo III - Proyectos reales**
+**Módulo X - [PONER Título]**
 
 ## Objetivos
 
