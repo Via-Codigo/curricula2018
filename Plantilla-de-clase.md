@@ -6,11 +6,13 @@
 
 ## Descripción corta
 
+## Conceptos
+
 ## Actividades
 
-- **nombre actividad**: descripción
+#### nombre actividad
 
-## Conceptos
+descripción
 
 ## Material
 
