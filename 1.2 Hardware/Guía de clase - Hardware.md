@@ -1,17 +1,30 @@
+# 1.2 Hardware
 
-# Hardware
-
-**Módulo III - Proyectos reales**
+**Módulo 1 - Fundamentos**
 
 ## Objetivos
 
+- Explicar las partes de una computadora y para que sirven
+
 ## Descripción corta
+
+Se enseñarán las principales partes que componen una computadora, para que sirven y a
+grandes rasgos como funcionan
+
+## Conceptos
+
+- HDD
+- RAM
+- CPU
+- Caché
+- Placa madre
+- puertos I/O
 
 ## Actividades
 
-* **nombre actividad**: descripción
+#### Representación de las partes de una PC
 
-## Conceptos
+Los alumnos representarán las partes de una computadora, y el salón será la **Placa madre**.
 
 ## Material
 

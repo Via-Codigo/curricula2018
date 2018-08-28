@@ -1,4 +1,4 @@
-# Introducción a Estación la Paz 2
+# 0.0 Introducción a Estación la Paz 2
 
 **Módulo 0 - Introducción al Taller**
 

@@ -1,4 +1,4 @@
-# Cómo funcionan las computadoras
+# 1.1 Cómo funcionan las computadoras
 
 **Módulo 1 - Fundamentos**
 
@@ -10,7 +10,10 @@
 
 ## Descripción corta
 
-1 2 4 8 16
+Se presentará a los alumnos una breve historia del origen de las computadoras,
+sentando las bases del por qué se necesitó la electricidad para dar el gran paso a construirlas.
+Luego se explicará como funciona el sistema binario, y se realizarán ejercicios que les permitan
+entender como con 1's y 0's re puede representar palabras, colores y todo lo que compone un programa.
 
 ## Conceptos
 
