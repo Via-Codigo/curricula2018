@@ -11,12 +11,27 @@ Con esto entenderán donde entra el trabajo de un maquetador web, y los concepto
 
 ## Actividades
 
-- **nombre actividad**: descripción
+#### Pedido de imagen por internet
+
+Se sigue la idea de Harvard para representar requests y responses
+
+#### Representación del internet con personas
+
+Ejercicio donde se representa
+
+- usuario
+- navegador
+- router
+- ISP DNS
+- Red de DNS
+- Dominio
+- Server
 
 ## Conceptos
 
 - Cliente/Servidor
-- Dirección IP
+- Dirección IP (4 billones)
+- TCP/IP UDP? Puertos ?
 - Dominio
 - DNS
 - Hosting
@@ -24,6 +39,10 @@ Con esto entenderán donde entra el trabajo de un maquetador web, y los concepto
 - Browser (Navegador)
 
 ## Material
+
+- Sobres para representar paquetes
+- Imagen para representar un archivo pesado para partir
+- Crear lista de Dominios asociados con IP's
 
 ## Tareas
 
