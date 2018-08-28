@@ -1,6 +1,6 @@
 # Currícula 2018 (Estación la Paz 2)
 
-<p align="center"> <img src="https://viacodigo.com/wp-content/uploads/2017/11/viacodigo-main-logo.png" ></p>
+<p > <img src="https://viacodigo.com/wp-content/uploads/2017/11/viacodigo-main-logo.png" ></p>
 <br>
 
 | Código | Tema                   | SubTema                               | Descripción                                                                                                                                |
