@@ -59,7 +59,7 @@ Los alumnos deberán representar distintas frases usando los códigos ASCII, par
 
 Los textos a representar son:
 
-- Hola ( 72 111 108 97) #notemops que tiene mayúscula
+- Hola ( 72 111 108 97) notemos que tiene mayúscula
 
 - Su primer nombre
 
