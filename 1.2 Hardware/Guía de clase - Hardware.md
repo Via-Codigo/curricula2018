@@ -28,6 +28,8 @@ Los alumnos representarán las partes de una computadora, y el salón será la *
 
 ## Material
 
+- [Presentación PPT](https://docs.google.com/presentation/d/1P5uVLogtP64aIEjp0XsE85laWADmGaTNhOoV4qOs3dk/edit?usp=sharing)
+
 ## Tareas
 
 `NONE`

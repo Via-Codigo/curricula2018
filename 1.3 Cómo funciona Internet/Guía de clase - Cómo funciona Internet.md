@@ -43,6 +43,7 @@ Ejercicio donde se representa
 - Sobres para representar paquetes
 - Imagen para representar un archivo pesado para partir
 - Crear lista de Dominios asociados con IP's
+- [video de cables de internet](https://www.youtube.com/watch?v=IlAJJI-qG2k)
 
 ## Tareas
 
