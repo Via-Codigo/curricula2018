@@ -12,11 +12,11 @@ Con esto entenderán donde entra el trabajo de un maquetador web, y los concepto
 
 ## Actividades
 
-### Ver video sobe el cableado de internet
+### I. Ver video sobe el cableado de internet
 
 Se muestra video sobre como se extienden los cables submarinos de internet por el mundo.
 
-#### Pedido de imagen por internet
+### II. Pedido de imagen por internet
 
 Se simula un **Request** de una imagen a un servidor.
 
@@ -29,51 +29,51 @@ Una persona será el servidor. 4 Personas serán los que llevan los paquetes. Un
 1. Cada mensajero lleva un sobre al Cliente
 1. El cliente ordena los sobres y reconstruye la foto
 
-#### Representación del internet con personas
+### III. Representación del internet con personas
 
 En este ejercicio se representará en mayor profundidad el flujo de uso de un típico usuario de internet, buscando explicar el
 funcionamiento de la tecnología que existe detras.
 
-##### Usuario
+##### 1. Usuario (1 a más personas)
 
 1. Pueden ser varias personas, los usuarios construyen búsquedas de google usando los keywords
-   del listado que se les entrega. Deben entregar una ficha con la búsqueda al _Cliente_
+   del listado que se les entrega. Deben entregar una ficha con la búsqueda al **Cliente**
 
-2. Una vez el _Cliente_ recibe el listado de páginas sugerido por _El Motor de Búsqueda_ debe presentarselo al _Usuario_.
+2. Una vez el **Cliente** recibe el listado de páginas sugerido por **El Motor de Búsqueda** debe presentarselo al **Usuario**.
 
-3. Cuando el _Usuario_ elige la página que desea recibir, el _Cliente_ entrega la tarjeta con el Request al _Servidor DNS_
+3. Cuando el **Usuario** elige la página que desea recibir, el **Cliente** entrega la tarjeta con el Request al **Servidor DNS**
 
-4. Al recibir el sobre con la págiona web de el _Cliente_ el usuario lo abre completando así el ciclo.
+4. Al recibir el sobre con la págiona web de el **Cliente** el usuario lo abre completando así el ciclo.
 
-##### Cliente
+##### 2. Cliente
 
-1. El cliente será una persona, su función es recibir el pedido de búsqueda de los _usuarios_ y entregarlo al equipo
-   que es el _motor de búsqueda_.
+1. El cliente será una persona, su función es recibir el pedido de búsqueda de los **usuarios** y entregarlo al equipo
+   que es el **motor de búsqueda**.
 
-2. Una vez que el _Cliente_ reciba el listado de resultados de _El motro de Búsqueda_ debe presentarlo al _usuario_ que hizo el pedido para que este elija que página desea ver.
+2. Una vez que el **Cliente** reciba el listado de resultados de **El motro de Búsqueda** debe presentarlo al **usuario** que hizo el pedido para que este elija que página desea ver.
 
-3. Al recibir la web del _Servidor Hosting_ el _Cliente_ entrega el sobre al _Usuario_.
+3. Al recibir la web del **Servidor Hosting** el **Cliente** entrega el sobre al **Usuario**.
 
-##### El Motor de Búsqueda
+##### 3. El Motor de Búsqueda
 
 Es un equipo de personas que tiene una caja con las fichas que contienen las páginas web que han indexado.
 
-1. Deben analizar la búsqueda que les envía el _Cliente_ y devolver las páginas que consideren relevantes en orden de relevancia al _Cliente_
+1. Deben analizar la búsqueda que les envía el **Cliente** y devolver las páginas que consideren relevantes en orden de relevancia al **Cliente**
 
-##### Servidor DNS
+##### 4. Servidor DNS
 
 Es una persona
 
-1. Al recibir un Request del _Cliente_ debe buscar el dominio que le solicitan en su **tabla de servidores**. Al encontrarlo, debe agregar esa **dirección IP**
-   al pedido y entregarla al _Servidor de Hosting_ adecuado.
+1. Al recibir un Request del **Cliente** debe buscar el dominio que le solicitan en su **tabla de servidores**. Al encontrarlo, debe agregar esa **dirección IP**
+   al pedido y entregarla al **Servidor de Hosting** adecuado.
 
-##### Servidor de Hosting
+##### 5. Servidor de Hosting
 
 Cada persona representa un Hosting compartido y tiene 8 sobres con 8 páginas web. Los sobres tienen por fuera el **dominio** de la página web y por dentro
-el archivo con información de mentira de _Response_ de una web.
+el archivo con información de mentira de **Response** de una web.
 
-1. El Hosting recibe una petición de URL del _Servidor DNS_ y busca el sobre para esa web. Al encontrarlo lo retorna
-   directamente al _Cliente_ agregando la IP del cliente al sobre.
+1. El Hosting recibe una petición de URL del **Servidor DNS** y busca el sobre para esa web. Al encontrarlo lo retorna
+   directamente al **Cliente** agregando la IP del cliente al sobre.
 
 ## Conceptos
 
