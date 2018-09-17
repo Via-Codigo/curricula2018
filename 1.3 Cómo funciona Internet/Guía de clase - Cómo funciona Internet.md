@@ -91,15 +91,15 @@ el archivo con información de mentira de **Response** de una web.
 
 ## Material
 
-- 5 Sobres pequeños
-- Una imagen impresa para partir en los 4 sobres y enviar en varios requests
-- Etiquetas de nombre (nametags) para cada parte del sistema con su nombre e IP
-- Tarjetas o fichas con los datos de las webs como salen en la búsqueda de Google por un lado y los datos para realizar el request por el otro
-- Listado de webs con IP para el servidor DNS
-- [Listado de webs/IP's y meta descriptions para crear las tarjetas](https://docs.google.com/spreadsheets/d/1HGAipLs-1gfowMCLJTw2m3R_G4aTsO9WWhv8anxWzHQ/edit?usp=sharing)
-- [Listado de Keywords con los que se pueden construir búsquedas de google](https://docs.google.com/spreadsheets/d/1HGAipLs-1gfowMCLJTw2m3R_G4aTsO9WWhv8anxWzHQ/edit?usp=sharing)
-- Sobres con la IP de cada una de las webs que tiene cada servidor con [un archivo con información de mentira](https://docs.google.com/document/d/14qrmNviaCWQc1MmzxSaMB4Y9ijWE-c8BC2xh72bgn20/edit?usp=sharing) dentro
-- [video de cables de internet](https://www.youtube.com/watch?v=IlAJJI-qG2k)
+1. 5 Sobres pequeños
+1. Una imagen impresa para partir en los 4 sobres y enviar en varios requests
+1. Etiquetas de nombre (nametags) para cada parte del sistema con su nombre e IP
+1. Tarjetas o fichas con los datos de las webs como salen en la búsqueda de Google por un lado y los datos para realizar el request por el otro
+1. Listado de webs con IP para el servidor DNS
+1. [Listado de webs/IP's y meta descriptions para crear las tarjetas](https://docs.google.com/spreadsheets/d/1HGAipLs-1gfowMCLJTw2m3R_G4aTsO9WWhv8anxWzHQ/edit?usp=sharing)
+1. [Listado de Keywords con los que se pueden construir búsquedas de google](https://docs.google.com/spreadsheets/d/1HGAipLs-1gfowMCLJTw2m3R_G4aTsO9WWhv8anxWzHQ/edit?usp=sharing)
+1. Sobres con la IP de cada una de las webs que tiene cada servidor con [un archivo con información de mentira](https://docs.google.com/document/d/14qrmNviaCWQc1MmzxSaMB4Y9ijWE-c8BC2xh72bgn20/edit?usp=sharing) dentro
+1. [video de cables de internet](https://www.youtube.com/watch?v=IlAJJI-qG2k)
 
 ## Tareas
 
