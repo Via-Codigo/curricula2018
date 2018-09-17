@@ -39,7 +39,7 @@ funcionamiento de la tecnología que existe detras.
 1. Pueden ser varias personas, los usuarios construyen búsquedas de google usando los keywords
    del listado que se les entrega. Deben entregar una ficha con la búsqueda al **Cliente (2.1)**
 
-2. Recibe el listado de páginas del **motor de búsqueda** de parte del **Cliente** y elige un resultado ** (1.3) **.
+2. Recibe el listado de páginas del **motor de búsqueda** de parte del **Cliente** y elige un resultado **pasar a (1.3)**.
 
 3. El **Usuario** entrega la página que desea recibir al **Cliente (2.3)**.
 
