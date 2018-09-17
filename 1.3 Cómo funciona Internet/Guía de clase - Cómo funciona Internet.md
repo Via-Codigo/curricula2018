@@ -37,43 +37,43 @@ funcionamiento de la tecnología que existe detras.
 ##### 1. Usuario (1 a más personas)
 
 1. Pueden ser varias personas, los usuarios construyen búsquedas de google usando los keywords
-   del listado que se les entrega. Deben entregar una ficha con la búsqueda al **Cliente**
+   del listado que se les entrega. Deben entregar una ficha con la búsqueda al **Cliente (2.1)**
 
-2. Una vez el **Cliente** recibe el listado de páginas sugerido por **El Motor de Búsqueda** debe presentarselo al **Usuario**.
+2. Recibe el listado de páginas del **motor de búsqueda** de parte del **Cliente** y elige un resultado ** (1.3) **.
 
-3. Cuando el **Usuario** elige la página que desea recibir, el **Cliente** entrega la tarjeta con el Request al **Servidor DNS**
+3. El **Usuario** entrega la página que desea recibir al **Cliente (2.3)**.
 
-4. Al recibir el sobre con la págiona web de el **Cliente** el usuario lo abre completando así el ciclo.
+4. Al recibir el sobre con la página web de el **Cliente** el usuario lo abre completando así el ciclo.
 
-##### 2. Cliente
+##### 2. Cliente (1 persona)
 
-1. El cliente será una persona, su función es recibir el pedido de búsqueda de los **usuarios** y entregarlo al equipo
-   que es el **motor de búsqueda**.
+1. Su función es recibir el pedido de búsqueda de los **usuarios** y entregarlo al equipo
+   que es el **motor de búsqueda (3.1)**.
 
-2. Una vez que el **Cliente** reciba el listado de resultados de **El motro de Búsqueda** debe presentarlo al **usuario** que hizo el pedido para que este elija que página desea ver.
+2. Una vez que el **Cliente** reciba el listado de resultados de **El motro de Búsqueda** debe presentarlo al **usuario (1.2)** que hizo el pedido para que este elija que página desea ver.
 
-3. Al recibir la web del **Servidor Hosting** el **Cliente** entrega el sobre al **Usuario**.
+3. Entrega la tarjeta con el Request de la página elegida al **Servidor DNS (4.1)**.
 
-##### 3. El Motor de Búsqueda
+4. Al recibir la web del **Servidor Hosting** el **Cliente** entrega el sobre al **Usuario**.
+
+##### 3. El Motor de Búsqueda (2-4 personas)
 
 Es un equipo de personas que tiene una caja con las fichas que contienen las páginas web que han indexado.
 
-1. Deben analizar la búsqueda que les envía el **Cliente** y devolver las páginas que consideren relevantes en orden de relevancia al **Cliente**
+1. Deben analizar la búsqueda que les envía el **Cliente** y devolver las páginas que consideren relevantes en orden de relevancia al **Cliente (2.2)**
 
-##### 4. Servidor DNS
-
-Es una persona
+##### 4. Servidor DNS (1 persona)
 
 1. Al recibir un Request del **Cliente** debe buscar el dominio que le solicitan en su **tabla de servidores**. Al encontrarlo, debe agregar esa **dirección IP**
-   al pedido y entregarla al **Servidor de Hosting** adecuado.
+   al pedido y entregarla al **Servidor de Hosting (5.1)** adecuado.
 
-##### 5. Servidor de Hosting
+##### 5. Servidor de Hosting (1 persona por servidor)
 
 Cada persona representa un Hosting compartido y tiene 8 sobres con 8 páginas web. Los sobres tienen por fuera el **dominio** de la página web y por dentro
 el archivo con información de mentira de **Response** de una web.
 
 1. El Hosting recibe una petición de URL del **Servidor DNS** y busca el sobre para esa web. Al encontrarlo lo retorna
-   directamente al **Cliente** agregando la IP del cliente al sobre.
+   directamente al **Cliente (2.4)** agregando la IP del cliente al sobre.
 
 ## Conceptos
 
