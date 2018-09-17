@@ -17,10 +17,11 @@ entender como con 1's y 0's re puede representar palabras, colores y todo lo que
 
 ## Conceptos
 
-- Donde hay computadoras hoy en día
-- Por qué tiene que ver con electricidad?
+- ¿Dónde hay computadoras hoy en día?
+- ¿Por qué tiene que ver con electricidad?
 - Existen sistemas de conteo
 - Sistema binario
+- Bit
 - Representación de texto con números
 - Representación de colores con números
 
@@ -36,8 +37,10 @@ formas de contar.
 
 #### Binario en pizarra
 
-Se dibuja en la pizarra 6 posiciones de bits y se hacen ejercicoos de conteo.
-Los alumnos en voz alta ayudan al profesor a completar distintos números.
+Se dibuja en la pizarra 6 posiciones de bits y se hacen ejercicios de conteo.
+Los alumnos en voz alta ayudan al profesor a completar los siguientes números:
+
+`11, 23, 4, 31, 16, 2`
 
 #### Binario con tarjetas
 
@@ -56,17 +59,20 @@ Las combinaciones que hay que conseguir son:
 | 1   | 1   | 1   | 1   | 1   | **31** |
 | 0   | 0   | 0   | 0   | 1   | **1**  |
 
-#### Representando textos en ASCII
+#### Descifrando Mensajes
 
-Los alumnos deberán representar distintas frases usando los códigos ASCII, para esto tendrá cada uno una copia de la tabla ASCII
+Los Alumnos deberán descifrar mensajes en Binario y ASCII que se les entregará, existen 4 listas de mensajes que se repartirán de
+forma secuencial para que no todos tengan los mismos.
 
-Los textos a representar son:
+##### Listado de mensajes:
 
-- Hola ( 72 111 108 97) notemos que tiene mayúscula
-
-- Su primer nombre
-
-- Un cantante que les guste
+- Nos gusta aprender
+- Queremos programar
+- Las computadoras no piensan
+- Amamos HTML y CSS
+- Que lento escribir binario
+- Aprendo a solucionar problemas
+- Puedo hablar con la pc
 
 #### Jugando con colores
 
@@ -80,7 +86,8 @@ visual
 
 - [Presentación](https://docs.google.com/presentation/d/10_v26YLs1YZTinSewl7BPb7o80n5wadrkRScgi-Zl5k/edit?usp=sharing)
 - [Tarjetas de bits](https://docs.google.com/document/d/1yX6NYc5WcjjE2gbJUPKq1nd0QVE3ZztfUe49vumpEL4/edit?usp=sharing)
-- [Tabla ASCII](https://drive.google.com/open?id=1re6QTpki4-wwdnr0bx-F54dMD8gkbO3T)
+- [Tabla Binario/ASCII](https://drive.google.com/open?id=1en2dd3Jk1M-TK6LdymkhFAtoMTO_E7rLQLIqvsk6UsI)
+- [Frases codificadas](https://docs.google.com/document/d/1fo6r169kWLWv9z_r9f77qNSo9jV1H8hXh5P37v1rjl8/edit?usp=sharing)
 
 ## Tareas
 
