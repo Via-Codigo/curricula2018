@@ -4,6 +4,9 @@
 
 ## Objetivos
 
+- Se aprenderán los principales elementos que componen el internet
+- Se aprenderá como funcionan los principales elementos que conforman internet
+
 ## Descripción corta
 
 Los alumnos aprenderán como se estructura internet, los distintos componentes implicados y el por qué de esta estructura.
@@ -12,11 +15,7 @@ Con esto entenderán donde entra el trabajo de un maquetador web, y los concepto
 
 ## Actividades
 
-### I. Ver video sobe el cableado de internet
-
-Se muestra video sobre como se extienden los cables submarinos de internet por el mundo.
-
-### II. Pedido de imagen por internet
+### I. Pedido de imagen por internet
 
 Se simula un **Request** de una imagen a un servidor.
 
@@ -29,7 +28,7 @@ Una persona será el servidor. 4 Personas serán los que llevan los paquetes. Un
 1. Cada mensajero lleva un sobre al Cliente
 1. El cliente ordena los sobres y reconstruye la foto
 
-### III. Representación del internet con personas
+### II. Representación del internet con personas
 
 En este ejercicio se representará en mayor profundidad el flujo de uso de un típico usuario de internet, buscando explicar el
 funcionamiento de la tecnología que existe detras.

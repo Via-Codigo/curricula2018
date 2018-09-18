@@ -6,14 +6,26 @@
 
 ## Descripción corta
 
+### Presentación
+
+[Link a las diapositivas]()
+
 ## Conceptos
 
 ## Actividades
 
-#### nombre actividad
+---
 
-descripción
+### I. nombre actividad
 
-## Material
+Explicación breve actividad
+
+**Participantes**: #
+
+**Instrucciones**: instrucciones de la actividad
+
+#### Material Actividad
+
+---
 
 ## Tareas
