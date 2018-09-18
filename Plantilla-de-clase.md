@@ -1,6 +1,6 @@
-# Nombre de la clase
+# [Nombre de la clase]
 
-**Módulo X - [PONER Título]**
+**Módulo [1] - [PONER Título]**
 
 ## Objetivos
 

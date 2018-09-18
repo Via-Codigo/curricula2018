@@ -4,6 +4,7 @@
 
 ## Objetivos
 
+- Los alumnos aprenden un poquito de historia básica de las computadoras
 - Los alumnos entienden que es el sistema binario y su relación con la electricidad
 - Los alumnos entienden como se puede representar textos con números
 - Los alumnos entienden como se puede crear color con números
@@ -141,10 +142,19 @@ Pueden romper las hojas para repartir los mensajes, pero deben entregarlos todos
 
 #### Jugando con colores
 
-Los alumnos aprenderán a entender colores en RGB y Hexadecimal usando [Adobe color wheel](https://color.adobe.com)
+Los alumnos aprenderán a entender colores en RGB y Hexadecimal
 
-Se les dejará jugar y ver la relación de los colores con los números.
-Se les pedirá que intenten lograr conseguir un color solo ingresando los números en vez de usar la interfaz
-visual.
+**Participantes**: todos de forma individual o en parejas
+
+**Instrucciones**: Se le dará a los alumnos un cuadro con valores en RGB y hexadecimal, donde deberán completar en una columna de que color creen que se trata.
+
+Una vez hayan completado el cuadro, se dirigirán a [Adobe color wheel](https://color.adobe.com) y verificarán sus resultados.
+Deberán colocar en otra columna el color que resultó.
+
+Se pueden utilizar nombres de colores generales (ej. azul, amarillo, anaranjado) o nombres un poco más complejos (ej. fuxia, celeste, kaqui), no existe un sistema de colores correcto para este ejercicio.
+
+#### Material Actividad
+
+- [Tabla para rellenar]()
 
 ---

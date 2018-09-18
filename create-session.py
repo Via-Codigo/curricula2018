@@ -25,28 +25,45 @@ args = parser.parse_args()
 # Variables
 title = args.title
 number = args.number
+if number: 
+    module = int(number)
+else: 
+    module = "[X]"
 
 session_template = """
 # {}
 
-**Módulo III - Proyectos reales**
+**Módulo {} - [PONER Título]**
 
 ## Objetivos
 
 ## Descripción corta
 
-## Actividades
+### Presentación
 
-* **nombre actividad**: descripción
+[Link a las diapositivas]()
 
 ## Conceptos
 
-## Material
+## Actividades
+
+---
+
+### I. nombre actividad
+
+Explicación breve actividad
+
+**Participantes**: #
+
+**Instrucciones**: instrucciones de la actividad
+
+#### Material Actividad
+
+---
 
 ## Tareas
 
-`NONE`
-""".format(title)
+""".format(title, module)
 
 
 # Check if number arg was passed, convert negative numbers
