@@ -12,8 +12,8 @@ Se evaluará a los alumnos mediante preguntas y ejercicios que deben realizar pa
 
 ## Evaluación
 
-- [Link a la evaluación]
-- [Link a las respuestas]
+- [Link a la evaluación](https://docs.google.com/document/d/1FVWHiVVUg3xv8d5eTSriLQwoBpwNkja3o610THEqrDw/edit?usp=sharing)
+- [Link a las respuestas](https://docs.google.com/document/d/1PqOVQF_BOzW7ND6x81ldgaYI2VwiWJxWJtNFu3-YlxE/edit?usp=sharing)
 
 ## Conceptos a evaluar
 
