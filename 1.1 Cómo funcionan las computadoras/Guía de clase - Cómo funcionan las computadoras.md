@@ -140,7 +140,7 @@ Pueden romper las hojas para repartir los mensajes, pero deben entregarlos todos
 
 ---
 
-#### Jugando con colores
+### V. Jugando con colores
 
 Los alumnos aprenderán a entender colores en RGB y Hexadecimal
 

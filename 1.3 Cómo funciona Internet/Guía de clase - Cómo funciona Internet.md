@@ -69,7 +69,7 @@ funcionamiento de la tecnología que existe detras.
 
 4. Al recibir el sobre con la página web de el **Cliente** el usuario lo abre completando así el ciclo.
 
-##### 2. Cliente (1 persona)
+##### 2. Cliente Navegador (Browser) (1 persona)
 
 1. Su función es recibir el pedido de búsqueda de los **usuarios** y entregarlo al equipo
    que es el **motor de búsqueda (3.1)**.
