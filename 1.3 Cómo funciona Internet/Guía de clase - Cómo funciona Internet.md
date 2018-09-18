@@ -58,21 +58,28 @@ Una persona será el servidor. 4 Personas serán los que llevan los paquetes. Un
 En este ejercicio se representará en mayor profundidad el flujo de uso de un típico usuario de internet, buscando explicar el
 funcionamiento de la tecnología que existe detras.
 
+##### Diagrama
+
+![](../assets/diagrama-simula-internet.png)
+
 ##### 1. Usuario (1 a más personas)
 
-1. Pueden ser varias personas, los usuarios construyen búsquedas de google usando los keywords
-   del listado que se les entrega. Deben entregar una ficha con la búsqueda al **Cliente (2.1)**
+Pueden ser varias personas, los usuarios construyen búsquedas de google usando los keywords del listado que se les entrega.
 
-2. Recibe el listado de páginas del **motor de búsqueda** de parte del **Cliente** y elige un resultado **pasar a (1.3)**.
+1.  Deben entregar una ficha con la búsqueda al **Cliente (2.1)**
 
-3. El **Usuario** entrega la página que desea recibir al **Cliente (2.3)**.
+2.  Recibe el listado de páginas del **motor de búsqueda** de parte del **Cliente** y elige un resultado **pasar a (1.3)**.
 
-4. Al recibir el sobre con la página web de el **Cliente** el usuario lo abre completando así el ciclo.
+3.  El **Usuario** entrega la página que desea recibir al **Cliente (2.3)**.
+
+4.  Al recibir el sobre con la página web de el **Cliente** el usuario lo abre completando así el ciclo.
 
 ##### 2. Cliente Navegador (Browser) (1 persona)
 
-1. Su función es recibir el pedido de búsqueda de los **usuarios** y entregarlo al equipo
-   que es el **motor de búsqueda (3.1)**.
+Su función es recibir el pedido de búsqueda de los **usuarios** y entregarlo al equipo
+que es el **motor de búsqueda**
+
+1. Recibe el pedido de búsqueda y lo entrega al **motor de búsqueda (3.1)**.
 
 2. Una vez que el **Cliente** reciba el listado de resultados de **El motro de Búsqueda** debe presentarlo al **usuario (1.2)** que hizo el pedido para que este elija que página desea ver.
 
@@ -87,6 +94,8 @@ Es un equipo de personas que tiene una caja con las fichas que contienen las pá
 1. Deben analizar la búsqueda que les envía el **Cliente** y devolver las páginas que consideren relevantes en orden de relevancia al **Cliente (2.2)**
 
 ##### 4. Servidor DNS (1 persona)
+
+Es el encargado de encontrar en que hosting se encuentra alojada la web solicitada por el usuario y transmitir el pedido.
 
 1. Al recibir un Request del **Cliente** debe buscar el dominio que le solicitan en su **tabla de servidores**. Al encontrarlo, debe agregar esa **dirección IP**
    al pedido y entregarla al **Servidor de Hosting (5.1)** adecuado.
