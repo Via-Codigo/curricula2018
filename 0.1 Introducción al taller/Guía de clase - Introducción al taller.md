@@ -1,4 +1,4 @@
-# 0.0 Introducción a Estación la Paz 2
+# 0.1 Introducción a Estación la Paz 2
 
 **Módulo 0 - Introducción al Taller**
 
@@ -13,6 +13,10 @@
 Se hace una sesión de introducción a los alumnos sobre Vía Código,
 cómo funciona Estación la Paz 2, que es la programación web, que pasa cuando termina Vía Código?
 
+### Presentación
+
+[Link a las diapositivas](https://docs.google.com/presentation/d/1bIEkJnQqsRRfjtSaD3Be9PDzTrSOIPRfAVO3csbd9S4/edit?usp=sharing)
+
 ## Conceptos
 
 - Que es Vía Código
@@ -26,13 +30,14 @@ cómo funciona Estación la Paz 2, que es la programación web, que pasa cuando 
 
 ## Actividades
 
-- **Charla a los alumnos**: Se dará una charla presentando el ppt
-- **Preguntas abiertas**: Momento de cierre para que los alumnos puedan preguntar todo lo que quieran sobre el programa
+---
 
-## Material
+### I. Preguntas abiertas
 
-- [Presentación](https://docs.google.com/presentation/d/1bIEkJnQqsRRfjtSaD3Be9PDzTrSOIPRfAVO3csbd9S4/edit?usp=sharing)
+Momento de cierre para que los alumnos puedan preguntar todo lo que quieran sobre el funcionamiento o contenidos del programa.
 
-## Tareas
+**Participantes**: todos
 
-`NONE`
+**Instrucciones**: Se brinda un espacio para que los alumnos puedan hacer todas las preguntas que deseen sobre el programa. Si se hacen preguntas sobre normas, se explica que estas se van a discutir y explicar durante la siguiente dinámica.
+
+---

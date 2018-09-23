@@ -1,19 +1,31 @@
-# Nombre de la clase
+# [Nombre de la clase]
 
-**Módulo X - [PONER Título]**
+**Módulo [1] - [PONER Título]**
 
 ## Objetivos
 
 ## Descripción corta
 
+### Presentación
+
+[Link a las diapositivas]()
+
 ## Conceptos
 
 ## Actividades
 
-#### nombre actividad
+---
 
-descripción
+### I. nombre actividad
 
-## Material
+Explicación breve actividad
+
+**Participantes**: #
+
+**Instrucciones**: instrucciones de la actividad
+
+#### Material Actividad
+
+---
 
 ## Tareas
