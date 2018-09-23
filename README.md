@@ -3,6 +3,10 @@
 <p > <img src="https://viacodigo.com/wp-content/uploads/2017/11/viacodigo-main-logo.png" ></p>
 <br>
 
+Esta es la currícula fija de **Estación la Paz 2**.
+
+Tambień tenemos el listado de [talleres de especialización](Talleres)
+
 | Código | Tema                   | SubTema                                                                                                                                                                                                                | Descripción                                                                                                                                        |
 | ------ | ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 0.1    | Introducción al Taller | [Introducción a Estación la Paz 2](https://github.com/Via-Codigo/curricula2018/blob/master/0.0%20Introducci%C3%B3n%20al%20taller/Gu%C3%ADa%20de%20clase%20-%20Introducci%C3%B3n%20al%20taller.md)                      | Que se hará, por qué enseñamos lo que enseñamos, explicación de la currícula y la dinámica, normas de clase, que hay después de Vía Código         |
