@@ -4,13 +4,22 @@
 
 ## Objetivos
 
+- Los alumnos aprenden a utilizar la etiqueta `<article>`
+- Los alumnos aprenden a utilizar la etiqueta `<nav>`
+- Los alumnos logran crear una multipágina utilizando todos los elementos aprendidos
+
 ## Descripción corta
+
+Luego de aprender los dos nuevos elementos semánticos, los alumnos completarán el proyecto con una web completa.
 
 ### Presentación
 
 [Link a las diapositivas]()
 
 ## Conceptos
+
+- Etiqueta `<nav>`
+- Etiqueta `<article>`
 
 ## Actividades
 

@@ -6,7 +6,7 @@
 
 - Creación de la base de un documento HTML
 - Entender que los documentos HTML se dividen en Etiquetas
-- Para que sirven `<head>` y `<body>`
+- Para que sirven `<head>`, `<body>` y `<title>`
 
 ## Descripción corta
 
@@ -24,6 +24,7 @@ Practican crear documentos HTML básicos y a ponerles cualquier contenido dentro
 - Etiquetas
 - Etiqueta Head
 - Etiqueta body
+- Etiqueta title
 
 ## Actividades
 
