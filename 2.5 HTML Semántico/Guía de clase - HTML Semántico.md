@@ -1,6 +1,6 @@
-# [Nombre de la clase]
+# HTML Semántico
 
-**Módulo [1] - [PONER Título]**
+**Módulo 2 - Intro HTML**
 
 ## Objetivos
 
@@ -27,3 +27,5 @@ Explicación breve actividad
 #### Material Actividad
 
 ---
+
+## Tareas

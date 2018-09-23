@@ -61,7 +61,7 @@ Explicación breve actividad
 
 ---
 
-## Tareas
+
 
 """.format(title, module)
 
