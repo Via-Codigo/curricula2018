@@ -94,7 +94,7 @@ Esta parte no tendrá dos niveles de dificultad.
 La **Memoria Caché** estará ubicada entre el **CPU** y la **RAM**. Tendrá una capacidad máxima del mismo tamaño que los bits del procesador.
 Cuando el **CPU** realiza un pedido, o acción, siempre mira primero si las piezas que necesita las tiene la **Memoria Caché**. De ser así, se las pide,
 
-#### 6. CPU (Procesador)
+#### 6. CPU (Procesador) (1 a 3 personas)
 
 El procesador es la pieza más compleja de nuestro sistema, y estará en el centro de todas las acciones del computador humano.
 Para una mejor representación, la **memoria caché** será una pieza aparte (otra persona).
@@ -134,7 +134,7 @@ Tendrá una tabla de procesamientos que le dirán que entregar al **Periférico 
 - Caja grande para Disco Duro
 - Bandeja o caja chica para RAM
 - Caja pequeña o bandeja pequeña para caché
-- [Tarjetas de peticiones para periféricos de entrada](#)
-- [Tarjetas de peticiones para CPU](#)
-- [Tarjetas de resultados para periférico de salida](#)
+- [Tarjetas de peticiones para periféricos de entrada](https://docs.google.com/document/d/1Sss2r9dAI1Ka6PytNnfMZntBZI-8d6yNmAfrYnfTPZQ/edit?usp=sharing)
+- [Tabla de procesos del CPU](https://docs.google.com/spreadsheets/d/1KzIJDL9AXDnjzwrk-CCPKhWwYYOAFtxbhgSoGbUTbf4/edit?usp=sharing)
+- [Tarjetas de resultados para periférico de salida](https://docs.google.com/document/d/1Sss2r9dAI1Ka6PytNnfMZntBZI-8d6yNmAfrYnfTPZQ/edit?usp=sharing)
 - Cajas de procesos donde quepan las cantidades de bits requeridas (4 y 8)
