@@ -1,5 +1,7 @@
 # Currícula 2018 (Estación la Paz 2)
 
+En construcción. Iremos publicando más clases según se valide su efectividad
+
 <p > <img src="https://viacodigo.com/wp-content/uploads/2017/11/viacodigo-main-logo.png" ></p>
 <br>
 
