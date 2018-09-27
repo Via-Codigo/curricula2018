@@ -49,6 +49,7 @@ El salón o espacio de enseñanza representará la **placa madre**
 
 Los periféricos representan al usuario y son los que solicitarán o entregarán información al **CPU**.
 Utilizarán una cartilla con las combinaciones de peticiones que pueden hacer.
+No tiene niveles de dificultad
 
 ##### 2.1 Periféricos de entrada (1 a 2 personas)
 
@@ -58,15 +59,10 @@ Emiten comandos al Procesador
 
 Representa el monitor y se le entregan los resultados de la solicitud procesada
 
-**Básica**: Solo pedirán información a la computadora, utilizando la cartilla básica. Esta cartilla solo contiene instrucciones escritas en lenguaje humano.
-
-**Avanzada**: Tendrán una tabla de instrucciones complejas, donde podrán enviar al CPU cadenas de bits de pelotas. con los que podrá por ejemplo escribir frases.
-
 #### 3. Disco Duro (2 a 3 personas)
 
 El disco duro será una caja grande que es capaz de contener cientos de pelotas. La tarea de los participantes es conseguir las combinaciones de pelotas que les pida la **RAM**.
-El guardado de data en sectores u el borrado y recuperación de datos se realizará en pizarra utilizando una grilla para mostrar los sectores,
-pero el sistema de fragmentación, defragmentación y Jorunaling se enseñará con la caja de pelotas.
+Durante la explicación de que es un **Disco Duro** se explicarṕa como se hace el guardado de datos y el borrado de los mismos en una pizarra utilizando una grilla para mostrar los sectores, pero el sistema de fragmentación, defragmentación y Jorunaling se enseñará con la caja de pelotas.
 
 **Básica**: Los alumnos son un HDD windows donde mientrás más se use la caja, más se desordena, y en cierto punto, el usuario puede pedir que defragmenten el disco duro, ordenando las pelotas por sectores.
 
@@ -85,6 +81,7 @@ transmitir la petición al **DIsco Duro**, y luego de recibirla, transmitirla al
 Si el **RAM** no tiene espacio para recibir una nueva cadena de bits, debe deshacerse (devolver al **Disco Duro**) las pelotas que no cree convenientes para poder recibir nuevas.
 
 **Básico**: Un solo DIMM
+
 **Avanzado**: Ampliamos la RAM, de cualquiera de dos formas, podemos ampliar un solo DIM de RAM dándole capacidad de almacenar hasta 64 bits, o podemos
 ampliar con otro DIMM (una segunda persona) de 32 bits.
 
@@ -92,19 +89,19 @@ ampliar con otro DIMM (una segunda persona) de 32 bits.
 
 Esta parte no tendrá dos niveles de dificultad.
 La **Memoria Caché** estará ubicada entre el **CPU** y la **RAM**. Tendrá una capacidad máxima del mismo tamaño que los bits del procesador.
-Cuando el **CPU** realiza un pedido, o acción, siempre mira primero si las piezas que necesita las tiene la **Memoria Caché**. De ser así, se las pide,
+Cuando el **CPU** realiza un pedido, o acción, siempre mira primero si las piezas que necesita las tiene la **Memoria Caché**. De ser así, se las pide.
 
 #### 6. CPU (Procesador) (1 a 3 personas)
 
 El procesador es la pieza más compleja de nuestro sistema, y estará en el centro de todas las acciones del computador humano.
 Para una mejor representación, la **memoria caché** será una pieza aparte (otra persona).
 
-**básica**: El **CPU** recibe un comando de los usuarios, este puede ser una petición o una acción. En cuanto recibe debe dar tres vueltas en círculo y devolver las cadenas de bits a la memoria que se la entregó. Luego le da la ordén al **Periférico de salida** de mostrar el resultado. Lo primero que hace es buscar lo solicitado en la **Memoria Caché**, de no encontrar ahí la información, se la pide a la **RAM**.
+**básica**: El **CPU** recibe un comando de los usuarios. En cuanto recibe las cadenas de bits de la memoria que se las entregó (ya sea **Memoria Caché** o **RAM**)debe dar tres vueltas en círculo (para representar los ciclos de procesamiento) y devolver las cadenas de bits a la memoria que se la entregó. Luego le entrega la acción de salida al **Periférico de salida** para que muestre el resultado. Lo primero que hace es buscar lo solicitado en la **Memoria Caché**, de no encontrar ahí la información, se la pide a la **RAM**.
 
-**avanzada**: Aumentamos los núcleos del **CPU** aumentando una persona que realiza las mismas acciones en paralelo.
-Además el CPU contará con una persona extra que gestiona que pelotas se retornan a la **RAM** o se devuelven directamente al **Disco Duro**.
+**avanzada**: Antes de aumentar los núcleos hacemos que el usuario pida las cosas de dos en dos. Luego aumentamos los núcleos del **CPU** aumentando una persona que realiza las mismas acciones en paralelo.
+Además el CPU contará con una persona extra que gestiona que pelotas se retornan a la **RAM** o se devuelven directamente al **Disco Duro** según crea que genera un sistema más eficiente.
 
-Tendrá una tabla de procesamientos que le dirán que entregar al **Periférico de salida**.
+Tendrá una lista procesamientos que le dirán que entregar al **Periférico de salida**.
 
 **_Pasos:_**
 
@@ -130,7 +127,7 @@ Tendrá una tabla de procesamientos que le dirán que entregar al **Periférico 
 
 ## Material
 
-- Pelotas (200+)
+- Pelotas (100+)
 - Caja grande para Disco Duro
 - Bandeja o caja chica para RAM
 - Caja pequeña o bandeja pequeña para caché

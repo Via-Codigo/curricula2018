@@ -4,8 +4,9 @@
 
 ## Objetivos
 
-- conocer las etiquetas básicas de contenidos: `<h1> --> <h6>`, `<p>`
-- Aprender sobre anidación de etiquetas con listas: `<ul>`, `<ol>`, `<li>`
+- Los alumnos aprenden a conocer las etiquetas básicas de contenidos: `<h1> --> <h6>`, `<p>`
+- Los alumnos aprenden sobre anidación de etiquetas con listas: `<ul>`, `<ol>`, `<li>`
+- Los alumnos conocen [MDN](https://developer.mozilla.org/es/docs/Web/HTML/Elemento)
 
 ## Descripción corta
 
