@@ -15,7 +15,7 @@ estructurar contenidos completos.
 
 ### Presentación
 
-[Link a las diapositivas]()
+[Link a las diapositivas](https://drive.google.com/open?id=1uOrAZwIFhUqIuRhurtaHa9dd_knEBHf_-q0G-JmroFM)
 
 ## Conceptos
 
@@ -27,15 +27,18 @@ estructurar contenidos completos.
 
 ---
 
-### I. nombre actividad
+### I. Agregando <header>
 
-Explicación breve actividad
+Agregamos nuestra primera etiqueta header
 
-**Participantes**: #
+**Participantes**: todos
 
-**Instrucciones**: instrucciones de la actividad
+**Instrucciones**: preguntamos a los alumnos donde creen que debería ir nuestra etiqueta header. Luego de debatirlo,
+enseñamos en vivo donde debe colcarse, agrupando los elementos superiofres de la página que ya incluyen el `<h1>`, el `<p>` descriptivo y el menú con `<ul>`.
 
 #### Material Actividad
+
+Revisar el código final en la carpeta de ejercicios
 
 ---
 
