@@ -99,7 +99,7 @@ Para una mejor representación, la **memoria caché** será una pieza aparte (ot
 **básica**: El **CPU** recibe un comando de los usuarios. En cuanto recibe las cadenas de bits de la memoria que se las entregó (ya sea **Memoria Caché** o **RAM**)debe dar tres vueltas en círculo (para representar los ciclos de procesamiento) y devolver las cadenas de bits a la memoria que se la entregó. Luego le entrega la acción de salida al **Periférico de salida** para que muestre el resultado. Lo primero que hace es buscar lo solicitado en la **Memoria Caché**, de no encontrar ahí la información, se la pide a la **RAM**.
 
 **avanzada**: Antes de aumentar los núcleos hacemos que el usuario pida las cosas de dos en dos. Luego aumentamos los núcleos del **CPU** aumentando una persona que realiza las mismas acciones en paralelo.
-Además el CPU contará con una persona extra que gestiona que pelotas se retornan a la **RAM** o se devuelven directamente al **Disco Duro** según crea que genera un sistema más eficiente.
+Además el CPU contará con una persona extra (**gestor de procesos**) que gestiona que pelotas se retornan a la **RAM** o se devuelven directamente al **Disco Duro** según crea que genera un sistema más eficiente.
 
 Tendrá una lista procesamientos que le dirán que entregar al **Periférico de salida**.
 
