@@ -34,11 +34,60 @@ Agregamos nuestra primera etiqueta header
 **Participantes**: todos
 
 **Instrucciones**: preguntamos a los alumnos donde creen que debería ir nuestra etiqueta header. Luego de debatirlo,
-enseñamos en vivo donde debe colcarse, agrupando los elementos superiofres de la página que ya incluyen el `<h1>`, el `<p>` descriptivo y el menú con `<ul>`.
+enseñamos en vivo donde debe colocarse, agrupando los elementos superiores de la página que ya incluyen el `<h1>`, el `<p>` descriptivo y el menú con `<ul>`.
 
 #### Material Actividad
 
 Revisar el código final en la carpeta de ejercicios
+
+---
+
+### II. Agregando <footer>
+
+Agregamos nuestra primera etiqueta footer
+
+**Participantes**: todos
+
+**Instrucciones**: preguntamos a los alumnos donde creen que debería ir nuestra etiqueta footer. Luego de debatirlo,
+enseñamos en vivo donde debe colocarse, poniéndolo al final antes del cierre de body y creando un contenido de copiright para la web: `<footer>/copy; Via Codigo 2018</footer>`
+
+#### Material Actividad
+
+Revisar el código final en la carpeta de ejercicios
+
+---
+
+### III. Agregando <sections>
+
+Vamos a crear secciones usando la etiqueta `<section>`
+
+**Participantes**: todos
+
+**Instrucciones**: Explicamos con el ppt como las secciones sirven para separar contenidos y agruparlos por parecido.
+Debemos explicar como todo `<section>` requiere comenzar con una etiqueta de tipo `<h1-6>` para ser válida.
+
+1. Agregamos un `<section>` rodeando los último artículos del blog.
+1. Creamos de cero un `<section>` "Sobre esta página" encima del section de artículos.
+1. Creamos un `<section>` de contactanos antes del footer.
+1. Si los alumnos lo piden, podemos hacer un `<section>` para nuestras recomendaciones.
+
+#### Material Actividad
+
+Revisar el código final en la carpeta de ejercicios
+
+---
+
+### IV. Practicando lo aprendido
+
+Los alumnos repetirán lo aprendido sobre un documento HTML que necesita que se le agregue HTML semántico
+
+**Participantes**: todos
+
+**Instrucciones**: Pedirle a los alumnos que agreguen el HTML semántico al documento del ejercicio **actividad4.html**
+
+#### Material Actividad
+
+[actividad4.html](ejercicios/actividad4.html)
 
 ---
 
