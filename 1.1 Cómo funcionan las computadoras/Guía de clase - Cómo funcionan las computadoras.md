@@ -4,10 +4,15 @@
 
 ## Objetivos
 
-- Los alumnos aprenden un poquito de historia básica de las computadoras
+- Los alumnos aprenden desde cuando hay computadoras
+- Los alumnos aprenden sobre Babbage y Lovelace
 - Los alumnos entienden que es el sistema binario y su relación con la electricidad
-- Los alumnos entienden como se puede representar textos con números
-- Los alumnos entienden como se puede crear color con números
+- Los alumnos aprenden a leer binario
+- Los alumnos aprenden que es Hexadecimal
+- Los alumnos entienden como se puede representar textos ASCII
+- Los alumnos aprenden como se puede representar texto con binario
+- Los alumnos entienden como se puede crear color con RGB
+- Los alumnos aprenden como se puede crear color con Hezadecimal
 
 ## Descripción corta
 
@@ -26,9 +31,9 @@ entender como con 1's y 0's re puede representar palabras, colores y todo lo que
 - ¿Por qué tiene que ver con electricidad?
 - Existen sistemas de conteo
 - Sistema binario
-- Bit
+- Qué es un Bit
 - Representación de texto con números
-- Representación de colores con números
+- Representación de colores con números (RGB y Hexadecimal)
 
 ## Actividades
 
@@ -155,6 +160,6 @@ Se pueden utilizar nombres de colores generales (ej. azul, amarillo, anaranjado)
 
 #### Material Actividad
 
-- [Tabla para rellenar]()
+- [Tabla para rellenar](https://docs.google.com/document/d/1frNBcRiBQXXzc4Nub5JjmRPXsfwoL2jyBFBKXrZF59o/edit?usp=sharing)
 
 ---

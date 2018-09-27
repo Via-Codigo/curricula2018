@@ -1,5 +1,0 @@
-{
-    "python.jediEnabled": false,
-    "python.linting.pylintEnabled": false,
-    "python.formatting.provider": "yapf"
-}
