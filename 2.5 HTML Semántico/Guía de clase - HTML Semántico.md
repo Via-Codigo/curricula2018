@@ -27,7 +27,7 @@ estructurar contenidos completos.
 
 ---
 
-### I. Agregando <header>
+### I. Agregando `<header>`
 
 Agregamos nuestra primera etiqueta header
 
@@ -42,7 +42,7 @@ Revisar el código final en la carpeta de ejercicios
 
 ---
 
-### II. Agregando <footer>
+### II. Agregando `<footer>`
 
 Agregamos nuestra primera etiqueta footer
 
@@ -57,7 +57,7 @@ Revisar el código final en la carpeta de ejercicios
 
 ---
 
-### III. Agregando <sections>
+### III. Agregando `<section>`
 
 Vamos a crear secciones usando la etiqueta `<section>`
 
@@ -77,7 +77,22 @@ Revisar el código final en la carpeta de ejercicios
 
 ---
 
-### IV. Practicando lo aprendido
+### II. Agregando `<aside>`
+
+Agregamos nuestra primera etiqueta aside
+
+**Participantes**: todos
+
+**Instrucciones**: preguntamos a los alumnos donde creen que debería ir nuestra etiqueta aside. Luego de debatirlo,
+enseñamos en vivo donde debe colocarse, poniéndolo al rededor de la sección **Otras categorías de la web**.
+
+#### Material Actividad
+
+Revisar el código final en la carpeta de ejercicios
+
+---
+
+### V. Practicando lo aprendido
 
 Los alumnos repetirán lo aprendido sobre un documento HTML que necesita que se le agregue HTML semántico
 
