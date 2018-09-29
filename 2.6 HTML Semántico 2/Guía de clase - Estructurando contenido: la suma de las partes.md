@@ -29,15 +29,68 @@ Luego de aprender los dos nuevos elementos semánticos, los alumnos completarán
 
 ---
 
-### I. nombre actividad
+### I. Agregando `<article>`
 
-Explicación breve actividad
+**Participantes**: todos
 
-**Participantes**: #
-
-**Instrucciones**: instrucciones de la actividad
+**Instrucciones**: preguntamos a los alumnos donde creen que deberían ir nuestras etiqueta article. Luego de debatirlo,
+enseñamos en vivo donde debe colocarse, poniéndolo al rededor de los distintos artículos.
 
 #### Material Actividad
+
+Revisar el código final en la carpeta de ejercicios
+
+---
+
+### II. Agregando `<nav>`
+
+**Participantes**: todos
+
+**Instrucciones**: preguntamos a los alumnos donde creen que deberían ir nuestras etiqueta nav. Luego de debatirlo,
+enseñamos en vivo donde debe colocarse, poniéndolo al rededor del listado de secciones de la web `<ul>`.
+
+#### Material Actividad
+
+Revisar el código final en la carpeta de ejercicios
+
+---
+
+### III. Agregando `<main>`
+
+**Participantes**: todos
+
+**Instrucciones**: preguntamos a los alumnos donde creen que deberían ir nuestras etiqueta main. Luego de debatirlo,
+enseñamos en vivo donde debe colocarse, poniéndolo al rededor del contenido principal (todos los sections pero no el aside).
+
+#### Material Actividad
+
+Revisar el código final en la carpeta de ejercicios
+
+---
+
+### IV. Agregando `<div>`
+
+**Participantes**: todos
+
+**Instrucciones**: preguntamos a los alumnos donde creen que deberían ir nuestras etiqueta div. Luego de debatirlo,
+enseñamos en vivo donde debe colocarse, de todo menos de la etiqueta body, y rodeando todo lo que hay entre el `<header>` y el primer `<section>`.
+
+#### Material Actividad
+
+Revisar el código final en la carpeta de ejercicios
+
+---
+
+### V. Practicando lo aprendido hasta ahora
+
+**Participantes**: todos
+
+**Instrucciones**: preguntamos a los alumnos donde creen que deberían ir nuestras etiqueta div. Luego de debatirlo,
+enseñamos en vivo donde debe colocarse, de todo menos de la etiqueta body, y rodeando todo lo que hay entre el `<header>` y el primer `<section>`.
+
+#### Material Actividad
+
+Revisar el código final en la carpeta de ejercicios
 
 ---
 
