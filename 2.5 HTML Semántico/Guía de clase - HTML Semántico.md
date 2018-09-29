@@ -38,7 +38,7 @@ enseñamos en vivo donde debe colocarse, agrupando los elementos superiores de l
 
 #### Material Actividad
 
-Revisar el código final en la carpeta de ejercicios
+Revisar el código inicio y final en la carpeta de ejercicios
 
 ---
 
@@ -53,7 +53,7 @@ enseñamos en vivo donde debe colocarse, poniéndolo al final antes del cierre d
 
 #### Material Actividad
 
-Revisar el código final en la carpeta de ejercicios
+Revisar el código inicio y final en la carpeta de ejercicios
 
 ---
 
@@ -73,7 +73,7 @@ Debemos explicar como todo `<section>` requiere comenzar con una etiqueta de tip
 
 #### Material Actividad
 
-Revisar el código final en la carpeta de ejercicios
+Revisar el código inicio y final en la carpeta de ejercicios
 
 ---
 
@@ -88,7 +88,7 @@ enseñamos en vivo donde debe colocarse, poniéndolo al rededor de la sección *
 
 #### Material Actividad
 
-Revisar el código final en la carpeta de ejercicios
+Revisar el código inicio y final en la carpeta de ejercicios
 
 ---
 

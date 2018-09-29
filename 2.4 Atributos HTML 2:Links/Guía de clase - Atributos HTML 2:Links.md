@@ -18,7 +18,7 @@ para vincular sub secciones de un documento HTML.
 
 ### Presentación
 
-[Link a las diapositivas]()
+[Link a las diapositivas](https://docs.google.com/presentation/d/1vxjZQyu0lUDruc36kyewmmmbaZDLHNdSRgYIbPe43fo/edit?usp=sharing)
 
 ## Conceptos
 
@@ -31,16 +31,68 @@ para vincular sub secciones de un documento HTML.
 
 ---
 
-### I. nombre actividad
+### I. Agregando Link a otra web
 
-Explicación breve actividad
+agregaremos un link a otra web
 
-**Participantes**: #
+**Participantes**: todos
 
-**Instrucciones**: instrucciones de la actividad
+**Instrucciones**: se les enseña como agregar un link a una web externa debajo del párrafo introductorio de la web.
 
 #### Material Actividad
 
+Revisar el código inicio y final en la carpeta de ejercicios
+
 ---
 
-## Tareas
+### II. Agregando Link una sección de la misma página
+
+agregaremos un link una sección de la misma página usando atributos id
+
+**Participantes**: todos
+
+**Instrucciones**: Se les enseña como se ponen los atributos `id` y se crean links del menú de la web hacia las 3 sescciones. Como aún no enseñamos `<section>` el link a artículos irá sobre el primer titular.
+
+#### Material Actividad
+
+Revisar el código inicio y final en la carpeta de ejercicios
+
+---
+
+### III. Agregando Link a otra página de la misma web
+
+Haremos links a una nueva página en esta web
+
+**Participantes**: todos
+
+**Instrucciones**:
+
+1. crean un archivo `articulo.html`
+1. copiamos todo el cabecero y footer de la web
+1. Agregamos un `<h2>` que se llamae Tpitulo del artículo
+1. Agregamos los links de **leer más** al final de los artículos.
+
+#### Material Actividad
+
+Revisar el código inicio y final en la carpeta de ejercicios
+
+---
+
+### IV. Practicando lo aprendido
+
+Repasaremos los 4 tipos de link ensayados
+
+**Participantes**: todos
+
+**Instrucciones**:
+
+1. crean un archivo `articulo.html`
+1. copiamos todo el cabecero y footer de la web
+1. Agregamos un `<h2>` que se llamae Título del artículo
+1. Agregamos los links de **leer más** al final de los artículos.
+
+#### Material Actividad
+
+Revisar el código inicio y final en la carpeta de ejercicios
+
+---

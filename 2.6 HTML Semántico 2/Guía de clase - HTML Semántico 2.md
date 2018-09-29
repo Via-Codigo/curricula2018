@@ -38,7 +38,7 @@ enseñamos en vivo donde debe colocarse, poniéndolo al rededor de los distintos
 
 #### Material Actividad
 
-Revisar el código final en la carpeta de ejercicios
+Revisar el código inicio y final en la carpeta de ejercicios
 
 ---
 
@@ -51,7 +51,7 @@ enseñamos en vivo donde debe colocarse, poniéndolo al rededor del listado de s
 
 #### Material Actividad
 
-Revisar el código final en la carpeta de ejercicios
+Revisar el código inicio y final en la carpeta de ejercicios
 
 ---
 
@@ -64,7 +64,7 @@ enseñamos en vivo donde debe colocarse, poniéndolo al rededor del contenido pr
 
 #### Material Actividad
 
-Revisar el código final en la carpeta de ejercicios
+Revisar el código inicio y final en la carpeta de ejercicios
 
 ---
 
@@ -77,7 +77,7 @@ enseñamos en vivo donde debe colocarse, de todo menos de la etiqueta body, y ro
 
 #### Material Actividad
 
-Revisar el código final en la carpeta de ejercicios
+Revisar el código inicio y final en la carpeta de ejercicios
 
 ---
 
@@ -90,8 +90,4 @@ enseñamos en vivo donde debe colocarse, de todo menos de la etiqueta body, y ro
 
 #### Material Actividad
 
-Revisar el código final en la carpeta de ejercicios
-
----
-
-## Tareas
+Revisar el código inicio y final en la carpeta de ejercicios
