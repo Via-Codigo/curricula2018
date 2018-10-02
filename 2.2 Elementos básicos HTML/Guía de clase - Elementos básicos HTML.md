@@ -15,7 +15,7 @@ Luego aprenderán a anidar elementos con la creación de listas.
 
 ### Presentación
 
-[Link a las diapositivas]()
+[Link a las diapositivas](https://docs.google.com/presentation/d/18rgaVK2FacP0U0EXPWURX24refnFQ_QTVNLBX1lAUEI/edit#slide=id.p12)
 
 ## Conceptos
 
@@ -27,13 +27,19 @@ Luego aprenderán a anidar elementos con la creación de listas.
 
 ---
 
-### I. nombre actividad
+### I. Creando nuestro primer blog
 
-Explicación breve actividad
+Creamos un blog simple en html haciendo uso de las distintas etiquetas aprendidas.
 
-**Participantes**: #
+**Participantes**: todos.
 
-**Instrucciones**: instrucciones de la actividad
+**Instrucciones**: 
+
+* El alumno define una estructura basica de un documento HTML.
+* El alumno utiliza las etiquetas aprendidas para definir un titulo y subtitulos.
+* El alumno define un menú utilizando una lista.
+* El alumno hace distintos parrafos para las secciones del blog.
+
 
 #### Material Actividad
 

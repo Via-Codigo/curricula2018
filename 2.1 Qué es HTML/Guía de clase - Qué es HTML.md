@@ -6,6 +6,7 @@
 
 - Los alumnos crean la base de un documento HTML
 - Los alumnos entienden que los documentos HTML se dividen en Etiquetas
+- Los alumnos entienden la importancia de cada etiqueta
 - Los alumnos aprenden para que sirven `<head>`, `<body>` y `<title>`
 - Los alumnos aprenden el concepto básico de anidar elementos.
 
@@ -17,12 +18,12 @@ utilizar etiquetas para explicar el contenido al navegador.
 
 ### Presentación
 
-[Link a las diapositivas](#)
+[Link a las diapositivas](https://docs.google.com/presentation/d/1O-RqpduvLGCuCfQ-P77lza1Pnc-5oPS2HXKaskd042U/edit)
 
 ## Conceptos
 
 - HTML
-- Estructura básica de HTML
+- Estructura básica de HTML5
 - Etiquetas HTML
 - Etiqueta head
 - Etiqueta body
@@ -32,13 +33,13 @@ utilizar etiquetas para explicar el contenido al navegador.
 
 ---
 
-### I. nombre actividad
+### I. La importancia de las etiquetas
 
-Explicación breve actividad
+Cambiaremos valores del as etiquetas para entender que hace cada una de ellas.
 
-**Participantes**: #
+**Participantes**: Todos
 
-**Instrucciones**: instrucciones de la actividad
+**Instrucciones**: Luego de crear una pagina web sencilla con una estructura basica y algo de contenido, jugaremos con las etiquetas y observamos que pasa.
 
 #### Material Actividad
 
