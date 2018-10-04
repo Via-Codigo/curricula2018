@@ -1,4 +1,4 @@
-# 5 mujeres programadoras que cambiaron el mundo
+# Algunas mujeres programadoras que cambiaron el mundo
 
 La programación informática es un campo dominado por los hombres, ¿no es así?
 
