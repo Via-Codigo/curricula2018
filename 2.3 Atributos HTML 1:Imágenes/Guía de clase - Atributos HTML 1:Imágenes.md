@@ -37,7 +37,7 @@ agregaremos imagenes al blog.
 
 **Participantes**: todos
 
-**Instrucciones**: Agregamos la imagen `imagen-principal.jgp` entre el tpitulo del blog y la frase que lo describe, y luego las imágenes correspondientes en cada artpiculod el blog.
+**Instrucciones**: Agregamos la imagen `imagen-principal.jpg` entre el tpitulo del blog y la frase que lo describe, y luego las imágenes correspondientes en cada artpiculod el blog.
 
 #### Material Actividad
 
