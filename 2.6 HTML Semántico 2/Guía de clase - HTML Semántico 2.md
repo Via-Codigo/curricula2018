@@ -85,9 +85,6 @@ Revisar el código inicio y final en la carpeta de ejercicios
 
 **Participantes**: todos
 
-**Instrucciones**: preguntamos a los alumnos donde creen que deberían ir nuestras etiqueta div. Luego de debatirlo,
-enseñamos en vivo donde debe colocarse, de todo menos de la etiqueta body, y rodeando todo lo que hay entre el `<header>` y el primer `<section>`.
+**Instrucciones**:
 
 #### Material Actividad
-
-Revisar el código inicio y final en la carpeta de ejercicios
