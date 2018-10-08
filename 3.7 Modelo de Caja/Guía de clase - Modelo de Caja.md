@@ -1,7 +1,6 @@
-
 # Modelo de Caja
 
-**Módulo 3 - [PONER Título]**
+**Módulo 3 - CSS Básico**
 
 ## Objetivos
 
@@ -28,6 +27,3 @@ Explicación breve actividad
 #### Material Actividad
 
 ---
-
-
-
