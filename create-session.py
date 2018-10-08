@@ -20,15 +20,17 @@ parser.add_argument("title", type=str,
                     help="Titulo de la clase entre comillas")
 parser.add_argument("-n", "--number", type=float,
                     help="Numero de sesión a crear (float)")
+
 args = parser.parse_args()
 
 # Variables
 title = args.title
 number = args.number
-if number: 
+if number:
     module = int(number)
-else: 
+else:
     module = "[X]"
+
 
 session_template = """
 # {}
@@ -70,15 +72,14 @@ Explicación breve actividad
 
 if number:
     session_number = "{}".format(abs(number))
-   
-   
+
 
 else:
     session_number = "--"
 
 folder_name = "{} {}".format(session_number, title)
 
-# create folder and file
+# create folder and file for the basic class
 try:
     os.makedirs(folder_name)
     with open("{}/Guía de clase - {}.md".format(folder_name, title), "w+") as class_guide:
@@ -86,3 +87,13 @@ try:
 except Exception as e:
     print(e)
     print("Esa carpeta ya existe")
+
+# create all other required folders
+
+try:
+    os.makedirs(f"{folder_name}/ejercicios")
+    os.makedirs(f"{folder_name}/inicio")
+    os.makedirs(f"{folder_name}/final")
+except Exception as e:
+    print(e)
+    print("Alguna carpeta ya existe")
