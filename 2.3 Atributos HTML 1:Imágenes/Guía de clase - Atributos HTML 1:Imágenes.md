@@ -31,7 +31,24 @@ otros archivos desde un archivo HTML. Esto les permitirá agremar elementos mult
 
 ---
 
-### I. Agregando Imágenes
+### I. Repaso: Eligiendo etiquetas
+
+Repasaremos crear arquitectura HTML en base a dos artículos de texto.
+Los alumnos deberán elegir las etiquetas adecuadas para esos trabajos, señalándolas con lapíz en las hojas impresas
+que se les facilitarán.
+
+**Participantes**: todos.
+
+**Instrucciones**:
+
+- El alumno elige un artículo
+- El alumno debe marcar en el papel, que elemento HTML será cada parte del mismo
+
+#### Material Actividad
+
+## [artículos](https://docs.google.com/document/d/1foFk6_9h_mj_JaGd1HIEFaS5qsTPiXBZx-20PwmXvhE/edit?usp=sharing)
+
+### II. Agregando Imágenes
 
 agregaremos imagenes al blog.
 
@@ -43,7 +60,7 @@ agregaremos imagenes al blog.
 
 Revisar el código inicio y final en la carpeta de ejercicios
 
-### II. Rutas Relativas
+### III. Rutas Relativas
 
 moveremos las imágenes de carpeta para entender como llegar a ellas con rutas relativas.
 
@@ -60,7 +77,7 @@ moveremos las imágenes de carpeta para entender como llegar a ellas con rutas r
 
 Revisar el código inicio y final en la carpeta de ejercicios
 
-### III. Ejercicios con imágenes
+### IV. Ejercicios con imágenes
 
 usamos el proyecto de la carpeta `ejercicios/actividad3`. Repasaremos lo aprendido.
 

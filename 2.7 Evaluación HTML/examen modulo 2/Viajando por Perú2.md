@@ -1,4 +1,4 @@
-# Viajando por Perú
+# Viajando por Perú 2
 
 ## Contenido
 
@@ -19,6 +19,7 @@ En el Cusco, una ciudad con gran tradición indígena, la imagen del Niño Manue
 Antaño, el Santurantikuy connotaba la presencia de “altares” y terminaba a las tres o cuatro de la tarde. Ese mismo día, y desde tempranas horas de la mañana, comenzaban a llegar los artesanos, algunos desde comunidades lejanas, con sus mantas cargadas de niños Manuelitos -como le llaman al niño Jesús- pastores, reyes magos, vírgenes, angelitos y todo aquello que pueda incorporarse al nacimiento. Acuden a comprar algunas piezas para regalar y otras para incorporar, cada año una pieza, a sus nacimientos.
 
 ![](Santurantikuy.jpg)
+
 ### Inti Raymi: “La Fiesta del Sol”
 
 Fueron varias las razones que impulsaron a la civilización Inka a realizar los sacrificios y ofrendas al astro rey. Una fue que el Inka, al igual que la nobleza cusqueña, eran considerados hijos naturales del Sol; a él obedecían su existencia, y debían corresponderle con sacrificios y ofrendas.
@@ -34,12 +35,15 @@ Al compás de milenarios aires musicales, delegados de los cuatro suyos desfilan
 La fiesta en honor al dios Sol, se realiza en presencia del Inca, el Willaq Uma o Sumo Sacerdote, Tarpuntay, Wirapirikuq y Kallparikuy, al igual que los nobles y representantes de las panacas, para lo cual se utilizan tres impresionantes escenarios históricos y naturales:
 
 #### Inti Raymi – Coricancha
+
 Qorikancha (Cerco de oro): Templo principal del Cusco dedicado al Sol, donde se dice estaba el jardín de oro (aquí se realizaban los primeros rituales del culto al Apu Inti y a la Pacha Mama, donde fueron enterradas cuantiosas ofrendas, cuyas evidencias halladas en 1972 se encuentran en el Museo Garcilaso del INC).
 
 #### Inti Raymi – Plaza de armas
+
 La Plaza Mayor (el antiguo Auqaypata o Plaza del Guerrero): En tiempo de los Incas, en esta inmensa plaza se desarrollaba íntegramente la ceremonia en medio del gran USHNU (plataforma ceremonial).
 
 #### Inti Raymi – Saqsaywaman
+
 Saqsaywaman (voz que deriva de los términos quechuas “saqsay” y “waman”, que traducido al español significa “sacíate halcón”). Se encuentra a 3,555 m.s.n.m., a un kilómetro del barrio inca de Qollqanpata. Fue la Real Casa del Sol y templo consagrado al Rayo, según Garcilaso. Aquí desde 1944 tiene lugar la parte central del Inti Raymi contemporáneo ante una impresionante multitud.
 
 Con casi sesenta años de existencia, el nuevo Inti Raymi es ahora parte inseparable de la vida del Cusco. No sólo es el acto central del mes en la ciudad, sino que su fama ha trascendido las fronteras peruanas y también, dentro de ellas, ha sido el ejemplo para otros festivales de la identidad nacional.
@@ -50,14 +54,13 @@ Con casi sesenta años de existencia, el nuevo Inti Raymi es ahora parte insepar
 
 ### ¡Descubre las 3 lagunas más impresionantes del Perú!
 
-
 ¿Quieres explorar la naturaleza del Perú? Si eres amante de los paisajes debes recorrer las lagunas más llamativas del país. Quedarás encantado inmediatamente y querrás quedarte a admirarlas por siempre. A continuación, descubre 3 de las lagunas más hermosas del Perú. ¡Anímate a visitarlas junto a tu pareja, amigos o familiares en tus próximas vacaciones!
 
-
 #### Laguna de Llanganuco
-* Locación: Callejón de Hualyas, Departamento de Ancash.
-* Altitud: 3800 m.s.n.m.
-* Clima: 10°C en promedio
+
+- Locación: Callejón de Hualyas, Departamento de Ancash.
+- Altitud: 3800 m.s.n.m.
+- Clima: 10°C en promedio
 
 Esta laguna es una de las más importantes en el país. A solo 2 horas de Huaraz puedes encontrar este hermoso destino turístico que te dejará maravillado. Su agua color azul verdoso lo convierte en el escenario perfecto para innumerables fotografías. Alrededor de la laguna, también se observa un paisaje imponente lleno de vegetación, montañas y nevados.
 
@@ -65,9 +68,9 @@ Debido a que es parte de una reserva natural, para poder entrar se necesita real
 
 #### Laguna Sauce o Laguna Azul
 
-* Locación: Provincia de San Martín
-* Altitud: 900 m.s.n.m.
-* Clima: 28°C en promedio
+- Locación: Provincia de San Martín
+- Altitud: 900 m.s.n.m.
+- Clima: 28°C en promedio
 
 Esta laguna se encuentra a menos de una hora de la ciudad de Tarapoto y es una de las más imponentes de la región selva de nuestro país.
 
@@ -76,19 +79,18 @@ Es conocida como Laguna Azul debido a que la laguna refleja el color azul del ci
 Para poder llegar al lago, hay que atravesar el río Huallaga, lo cual se debe realizar en balsa. En pocas regiones del Perú se puede navegar en balsa, por lo que esta experiencia es completamente única.
 
 #### Lago Titicaca
-* Locación: Departamento de Puno
-* Altitud: 3810 m.s.n.m.
-* Clima: 8°C en promedio
+
+- Locación: Departamento de Puno
+- Altitud: 3810 m.s.n.m.
+- Clima: 8°C en promedio
 
 Esta no es una laguna, pero es reconocida por lo turistas por lo emblemático que es para el Perú.
 
 El lago tiene un área de 8500 km2, lo cual lo convierte en el lago más grande que tiene el Perú. Prueba de ello es que a lo largo y ancho del lago hay más de 15 islas habitadas y no habitadas, las cuales conforman un paisaje único.
 
 Este lugar, sin duda alguna, tiene un gran valor histórico. El Lago Titicaca fue el lugar donde emergieron Manco Capac y Mama Ocllo con el objetivo de fundar el Imperio del Tahuantinsuyo. Asimismo, este lugar, antes de la época inca, fue habitado por la cultura Chiripa y Tiahuanaco, por lo que hasta ahora se pueden encontrar diversos restos arqueológicos.
- 
 
 No dejes de visitar ninguno de los innumerables destinos turísticos que tiene el Perú. ¡Estos tres escenarios naturales esperan por ti!
-
 
 ![](llanganuco.jpg)
 ![](sauce.jpg)
@@ -101,18 +103,23 @@ También conocida como la capital del folclore peruano, la ciudad de Cajamarca e
 ¿Aún no has decidido qué destino del interior del Perú conocer durante tus vacaciones? Te dejamos 5 espectaculares motivos por los cuales debes escoger Cajamarca.
 
 #### Su historia
+
 Cajamarca es una ciudad con mucha historia y valor cultural. Durante la época de la conquista, fue escenario de la captura del Inca Atahualpa y su posterior ejecución, tras lo cual se convirtió en una villa colonizada por españoles. Por ello, es posible encontrar en Cajamarca bellas construcciones que datan de la época colonial, como la catedral de Santa Catalina y el Conjunto Monumental de Belén. El último vestigio del imperio incaico que aún se mantiene en pie en Cajamarca es el famoso Cuarto del Rescate.
 
 #### Sus aguas termales
+
 A 6 kilómetros de la ciudad de Cajamarca se encuentran los famosos Baños del Inca. Ahí yace un balneario de aguas termales considerado como uno de los más importantes del continente, debido a las propiedades curativas de sus fuentes y a su tremendo valor histórico.
 
 #### El carnaval de Cajamarca
+
 Se trata de uno de los carnavales más famosos del Perú. Destaca por sus pintorescos desfiles y bailes, que llenan de música y alegría la ciudad. El carnaval de Cajamarca se celebra todos los años, antes del Miércoles de Ceniza.
 
 #### La gastronomía cajamarquina
+
 En Cajamarca puedes degustar deliciosos platos típicos de la región, como el picante de cuy con papa, el chicharrón con mote y las famosas humitas.
 
 #### Turismo vivencial
+
 Puedes interactuar con las comunidades campesinas y conocer más sobre sus costumbres y tradiciones. Asimismo, puedes aprender muchos de ellos y su visión del mundo participando en sus actividades agrícolas y ganaderas.
 
 ![](cajamarca1.jpg)
@@ -120,9 +127,3 @@ Puedes interactuar con las comunidades campesinas y conocer más sobre sus costu
 ![](baños.jpg)
 ![](carnaval.jpg)
 ![](gastronomia.jpg)
-
-
-
-
-
-

@@ -27,22 +27,36 @@ Luego aprenderán a anidar elementos con la creación de listas.
 
 ---
 
-### I. Creando nuestro primer blog
+### I. Creando nuestra primera página
+
+Los alumnos crean una página con información de un tema de su elección.
+
+**Participantes**: todos.
+
+**Instrucciones**:
+
+Deben crear una página que incluya los siguientes elementos:
+
+- Un h1
+- Otros elementos h según sea necesario
+- Un listado ordenado y/o un listado desordenado
+- párrafos
+
+Se evaluará la calidad de la organización del contenido, y se explicará en clase para todos lo que se hizo bien y mal, y por qué.
+
+---
+
+### II. Creando nuestro primer blog
 
 Creamos un blog simple en html haciendo uso de las distintas etiquetas aprendidas.
 
 **Participantes**: todos.
 
-**Instrucciones**: 
+**Instrucciones**:
 
-* El alumno define una estructura basica de un documento HTML.
-* El alumno utiliza las etiquetas aprendidas para definir un titulo y subtitulos.
-* El alumno define un menú utilizando una lista.
-* El alumno hace distintos parrafos para las secciones del blog.
-
-
-#### Material Actividad
+- El alumno define una estructura basica de un documento HTML.
+- El alumno utiliza las etiquetas aprendidas para definir un titulo y subtitulos.
+- El alumno define un menú utilizando una lista.
+- El alumno hace distintos parrafos para las secciones del blog.
 
 ---
-
-## Tareas
