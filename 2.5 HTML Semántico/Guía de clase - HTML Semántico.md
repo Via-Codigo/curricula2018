@@ -20,7 +20,7 @@ estructurar contenidos completos.
 ## Conceptos
 
 - HTML semántico
-- Etiquetas: `<section>`, `<header>` y `<footer>`
+- Etiquetas: `<section>`, `<header>` , `<footer>` y `<aside>`
 - Estructurar información en un documento HTML
 
 ## Actividades
@@ -77,7 +77,7 @@ Revisar el código inicio y final en la carpeta de ejercicios
 
 ---
 
-### II. Agregando `<aside>`
+### IV. Agregando `<aside>`
 
 Agregamos nuestra primera etiqueta aside
 

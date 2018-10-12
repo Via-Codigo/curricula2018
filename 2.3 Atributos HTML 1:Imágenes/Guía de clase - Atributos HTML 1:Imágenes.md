@@ -46,7 +46,7 @@ que se les facilitarán.
 
 #### Material Actividad
 
-## [artículos](https://docs.google.com/document/d/1foFk6_9h_mj_JaGd1HIEFaS5qsTPiXBZx-20PwmXvhE/edit?usp=sharing)
+[artículos](https://docs.google.com/document/d/1foFk6_9h_mj_JaGd1HIEFaS5qsTPiXBZx-20PwmXvhE/edit?usp=sharing)
 
 ### II. Agregando Imágenes
 
@@ -54,7 +54,7 @@ agregaremos imagenes al blog.
 
 **Participantes**: todos
 
-**Instrucciones**: Agregamos la imagen `imagen-principal.jpg` entre el tpitulo del blog y la frase que lo describe, y luego las imágenes correspondientes en cada artpiculod el blog.
+**Instrucciones**: Agregamos la imagen `imagen-principal.jpg` entre el título del blog y la frase que lo describe, y luego las imágenes correspondientes en cada artpiculo del blog.
 
 #### Material Actividad
 

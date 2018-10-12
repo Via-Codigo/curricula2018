@@ -19,6 +19,26 @@ cada sección.
 
 ## Conceptos
 
+- Etiquetas básicas `<h1> --> <h6>`, `<p>`
+- Anidación de elementos HTML
+- Etiquetas de lista HTML: `<ul>`, `<ol>`, `<li>`
+- Etiqueta `<img>`
+- Atributos HTML
+- Atributos **src**, **title** y **alt**
+- Rutas relativas y absolutas
+- Etiqueta `<a>`
+- Linkeo de páginas internas y externas
+- Rutas relativas y absolutas
+- Atributos **id** y **href**
+- Etiqueta `<section>`
+- Etiqueta `<header>`
+- Etiqueta `<footer>`
+- Etiqueta `<aside>`
+- Etiqueta `<nav>`
+- Etiqueta `<article>`
+- Etiqueta `<main>`
+- Etiqueta `<div>`
+
 ## Actividades
 
 ---
