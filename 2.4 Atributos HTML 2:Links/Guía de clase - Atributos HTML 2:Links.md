@@ -80,7 +80,7 @@ Los alumnos crearán una pagina para cada artículo del blog y rellenarán conte
 
 **Instrucciones**:
 
-1. Se les entrega impreso cada artículo a rellenar
+1. Se les entrega en markdown cada artículo a rellenar
 1. crean un archivo `<titulo-articulo>.html`
 1. copiamos todo el cabecero y footer de la web
 1. Agregamos un `<h2>` que se llamae Título del artículo
@@ -92,18 +92,16 @@ Revisar el código inicio y final en la carpeta de ejercicios
 
 ---
 
-### IV. Practicando lo aprendido
+### V. Practicando lo aprendido
 
-Repasaremos los 4 tipos de link ensayados
+Repasamos lo aprendido
 
 **Participantes**: todos
 
 **Instrucciones**:
 
-1. crean un archivo `articulo.html`
-1. copiamos todo el cabecero y footer de la web
-1. Agregamos un `<h2>` que se llamae Título del artículo
-1. Agregamos los links de **leer más** al final de los artículos.
+Los alumnos trabajan sobre la página de webcomics de la actividad 1 y lo convierten en un multisite
+donde cada comic esta en una página y donde cada imagen es un link al archivo en si.
 
 #### Material Actividad
 
