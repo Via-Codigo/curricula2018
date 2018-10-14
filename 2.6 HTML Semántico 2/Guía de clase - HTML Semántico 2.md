@@ -81,10 +81,15 @@ Revisar el código inicio y final en la carpeta de ejercicios
 
 ---
 
-### V. Practicando lo aprendido hasta ahora
+### V. Practicando lo aprendido hasta ahora con los artículos
 
 **Participantes**: todos
 
-**Instrucciones**:
+**Instrucciones**: Debe repetirse el proceso completando las etiquetas semánticas nuevas en
+las páginas de los artículos
 
 #### Material Actividad
+
+Revisar el código inicio y final en la carpeta de ejercicios
+
+---
