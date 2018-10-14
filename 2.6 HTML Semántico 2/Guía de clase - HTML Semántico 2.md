@@ -93,3 +93,15 @@ las páginas de los artículos
 Revisar el código inicio y final en la carpeta de ejercicios
 
 ---
+
+### VI. Ejercicio Final
+
+**Participantes**: todos
+
+**Instrucciones**: Debes organizar una web completa para el cliente que está en la carpeta `ejercicio 6`
+
+#### Material Actividad
+
+Revisar el código inicio y final en la carpeta de ejercicio 6
+
+---
