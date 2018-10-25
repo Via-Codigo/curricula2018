@@ -9,9 +9,8 @@
 ## Descripción corta
 
 Los alumnos deberán realizar una página web que cumpla con los requerimientos planteados en la evaluación.
-se les asiganrá una de las dos tareas disponibles, y deberán crear la página HTML para dicho contenido.
-Deberán utilizar todos los elementos que se les ha enseñado, creando una web multi seccion, con etiquetas adecuadas para
-cada sección.
+Basandose en los archivos PDF que muestran la web final, deben crear el HTML para esas páginas.
+No se evaluará que completen, sino la calidad de lo que hagan.
 
 ### Presentación
 
@@ -38,19 +37,5 @@ cada sección.
 - Etiqueta `<article>`
 - Etiqueta `<main>`
 - Etiqueta `<div>`
-
-## Actividades
-
----
-
-### I. nombre actividad
-
-Explicación breve actividad
-
-**Participantes**: #
-
-**Instrucciones**: instrucciones de la actividad
-
-#### Material Actividad
 
 ---
