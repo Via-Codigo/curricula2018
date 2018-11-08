@@ -27,7 +27,6 @@ No se evaluará que completen, sino la calidad de lo que hagan.
 - Rutas relativas y absolutas
 - Etiqueta `<a>`
 - Linkeo de páginas internas y externas
-- Rutas relativas y absolutas
 - Atributos **id** y **href**
 - Etiqueta `<section>`
 - Etiqueta `<header>`
