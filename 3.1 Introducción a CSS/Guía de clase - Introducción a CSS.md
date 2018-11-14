@@ -22,7 +22,7 @@ estilos en bloque y finalmente estilos en hojas externas.
 
 ### Presentación
 
-[Link a las diapositivas]()
+[Link a las diapositivas](https://docs.google.com/presentation/d/1SQIGXDi7fVL8vUrR9cpTXAV9lcOEpv0ANtiYnxZEnOQ/edit#slide=id.p9)
 
 ## Conceptos
 

@@ -29,9 +29,22 @@ para vincular sub secciones de un documento HTML.
 
 ## Actividades
 
+### I. Repaso de rutas a imágenes
+
+Los alumnos practicarán vincular imágenes en el HTML generado
+
+**Participantes**: todos
+
+**Instrucciones**: Se les da un HTML donde las rutas a las imágenes están con # y se les pide que
+analicen la carpeta y logren vincularlas.
+
+#### Material Actividad
+
+Revisar el código de la carpeta de ejercicios
+
 ---
 
-### I. Agregando Link a otra web
+### II. Agregando Link a otra web
 
 agregaremos un link a otra web
 
@@ -45,7 +58,7 @@ Revisar el código inicio y final en la carpeta de ejercicios
 
 ---
 
-### II. Agregando Link una sección de la misma página
+### III. Agregando Link una sección de la misma página
 
 agregaremos un link una sección de la misma página usando atributos id
 
@@ -59,17 +72,18 @@ Revisar el código inicio y final en la carpeta de ejercicios
 
 ---
 
-### III. Agregando Link a otra página de la misma web
+### IV. Agregando Link a otra página de la misma web
 
-Haremos links a una nueva página en esta web
+Los alumnos crearán una pagina para cada artículo del blog y rellenarán contenido.
 
 **Participantes**: todos
 
 **Instrucciones**:
 
-1. crean un archivo `articulo.html`
+1. Se les entrega en markdown cada artículo a rellenar
+1. crean un archivo `<titulo-articulo>.html`
 1. copiamos todo el cabecero y footer de la web
-1. Agregamos un `<h2>` que se llamae Tpitulo del artículo
+1. Agregamos un `<h2>` que se llamae Título del artículo
 1. Agregamos los links de **leer más** al final de los artículos.
 
 #### Material Actividad
@@ -78,18 +92,16 @@ Revisar el código inicio y final en la carpeta de ejercicios
 
 ---
 
-### IV. Practicando lo aprendido
+### V. Practicando lo aprendido
 
-Repasaremos los 4 tipos de link ensayados
+Repasamos lo aprendido
 
 **Participantes**: todos
 
 **Instrucciones**:
 
-1. crean un archivo `articulo.html`
-1. copiamos todo el cabecero y footer de la web
-1. Agregamos un `<h2>` que se llamae Título del artículo
-1. Agregamos los links de **leer más** al final de los artículos.
+Los alumnos trabajan sobre la página de webcomics de la actividad 1 y lo convierten en un multisite
+donde cada comic esta en una página y donde cada imagen es un link al archivo en si.
 
 #### Material Actividad
 
