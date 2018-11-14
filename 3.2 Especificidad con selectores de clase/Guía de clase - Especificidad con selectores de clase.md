@@ -16,7 +16,7 @@ Los alumnos aprenderán sobre la especificidad al utilizar declaraciones CSS sob
 
 ### Presentación
 
-[Link a las diapositivas]()
+[Link a las diapositivas](https://docs.google.com/presentation/d/1vvikpdNVtXFaC27UVRuldCG7Bg-GHsilJ7e4veq59fY/edit#slide=id.g45e91c2ee7_2_7)
 
 ## Conceptos
 
@@ -31,12 +31,21 @@ Los alumnos aprenderán sobre la especificidad al utilizar declaraciones CSS sob
 
 ### I. nombre actividad
 
-Explicación breve actividad
 
-**Participantes**: #
+**Participantes**: Todos
 
-**Instrucciones**: instrucciones de la actividad
+**Instrucciones**: Pedimos a los alumnos que:
+
+- Agregar un CSS externo.
+- Usar clases para definir los estilos.
+- Tiene que haber una clase que permita destacar  las películas y productos del cine, con tamaño y color de texto distinto.
+- Las imágenes de las películas y productos destacados deben de ser ligeramente más grandes que las demás.
+- Usar selectores descendentes.
+
+
 
 #### Material Actividad
+[ejercicios/actividad1](https://github.com/Via-Codigo/curricula2018/tree/master/3.5%20Especificidad%20con%20selectores%20descendientes/ejercicios/actividad1)
+
 
 ---

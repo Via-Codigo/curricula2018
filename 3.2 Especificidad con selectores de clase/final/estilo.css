@@ -1,0 +1,24 @@
+.lista{
+    justify-items:center;
+  }
+  .destacado{
+      font-size: 35px;
+      color:red;
+
+  }
+  .lista .pelicula{
+    background-color:#f0f0f0;
+    font-size:30px;
+  }
+ 
+  .pelicula .image{
+      width: 320px;
+  }
+.destacado .image{
+      width: 450px;
+  }
+
+  .lista .producto{
+    font-size: 29px;
+    background-color:#f0f0ff;
+  }
