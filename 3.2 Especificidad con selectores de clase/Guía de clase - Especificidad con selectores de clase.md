@@ -45,7 +45,7 @@ Los alumnos aprenderán sobre la especificidad al utilizar declaraciones CSS sob
 
 
 #### Material Actividad
-[ejercicios/actividad1](https://github.com/Via-Codigo/curricula2018/tree/master/3.5%20Especificidad%20con%20selectores%20descendientes/ejercicios/actividad1)
+[ejercicios/actividad1](https://github.com/Via-Codigo/curricula2018/tree/master/3.2%20Especificidad%20con%20selectores%20de%20clase/ejercicios/actividad1)
 
 
 ---
