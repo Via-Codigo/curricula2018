@@ -29,8 +29,42 @@ Los alumnos aprenderán sobre la especificidad al utilizar declaraciones CSS sob
 
 ---
 
-### I. nombre actividad
+### 0. Peso y Especificidad
 
+Experimenta con CSS, prueba dar a un mismo elemento estilos con etiqueta, id y clases y determina cuál tiene más peso.
+
+- Probar que pasa con cada una de las sentencias css incluída la en línea del html
+- agregar !important a fondo rojo para entender por qué gana
+- Pedir que piensen como podemos escribir una sentencia que le gane a fondo-rojo con !important
+
+El HTML:
+`<h1 id="fondo-naranja" class="fondo-azul fondo-rojo fondo-verde" style="background-color: blueviolet;" >`
+
+El css:
+
+```
+h1 {
+  background-color: black;
+}
+
+#fondo-naranja {
+  background-color: orange;
+}
+
+.fondo-azul {
+  background-color: blue;
+}
+
+.fondo-rojo {
+  background-color: red;
+}
+
+.fondo-verde {
+  background-color: green;
+}
+```
+
+### I. Practicando
 
 **Participantes**: Todos
 
@@ -38,14 +72,12 @@ Los alumnos aprenderán sobre la especificidad al utilizar declaraciones CSS sob
 
 - Agregar un CSS externo.
 - Usar clases para definir los estilos.
-- Tiene que haber una clase que permita destacar  las películas y productos del cine, con tamaño y color de texto distinto.
+- Tiene que haber una clase que permita destacar las películas y productos del cine, con tamaño y color de texto distinto.
 - Las imágenes de las películas y productos destacados deben de ser ligeramente más grandes que las demás.
 - Usar selectores descendentes.
 
-
-
 #### Material Actividad
-[ejercicios/actividad1](https://github.com/Via-Codigo/curricula2018/tree/master/3.2%20Especificidad%20con%20selectores%20de%20clase/ejercicios/actividad1)
 
+[ejercicios/actividad1](https://github.com/Via-Codigo/curricula2018/tree/master/3.2%20Especificidad%20con%20selectores%20de%20clase/ejercicios/actividad1)
 
 ---

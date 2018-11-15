@@ -1,0 +1,25 @@
+/* 
+
+* Probar que pasa con cada una de las sentencias css incluída la en línea del html
+* agregar !important a fondo rojo para entender por qué gana
+* Pedir que piensen como podemos escribir una sentencia que le gane a fondo-rojo con !important
+
+h1 {
+  background-color: black;
+}
+
+#fondo-naranja {
+  background-color: orange;
+}
+
+.fondo-azul {
+  background-color: blue;
+}
+
+.fondo-rojo {
+  background-color: red;
+}
+
+.fondo-verde {
+  background-color: green; 
+}
