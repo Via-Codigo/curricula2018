@@ -66,7 +66,8 @@ padding: 0;
 
 ### III. Modelo de caja 
 
-POR HACER, Creo que hay que mostrar cada propiedad de CSS relacionada con la caja pintandola de colores para que se note, y lñuego inspeccionar en CHROME para ver como se mira. También se ve border box
+POR HACER, Creo que hay que mostrar cada propiedad de CSS relacionada con la caja pintandola de colores para que se note, y lñuego inspeccionar en CHROME para ver como se mira. También se ve border box.
+deberíamos usar la pizarra como la caja y un papel que este dentro pegado con masking como el contenido
 
 **Participantes**: todos
 
