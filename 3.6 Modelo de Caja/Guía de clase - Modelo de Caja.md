@@ -34,14 +34,55 @@ Terminamos utilizando las 3 propiedades que definen la caja, border, padding y m
 
 ---
 
-### I. nombre actividad
+### I. Estilos base de los navegadores
 
-Explicación breve actividad
+Los alumnos crean un HTML nuevo que tenga todas las etiquetas que conocen, e intentan descubrir que estilos por defecto traen
 
-**Participantes**: #
+**Participantes**: todos
 
-**Instrucciones**: instrucciones de la actividad
+**Instrucciones**: Los alumnos crean un HTML nuevo que tenga todas las etiquetas que conocen, e intentan descubrir que estilos por defecto traen
 
-#### Material Actividad
+
+---
+
+### II. Reset básico
+
+Se piensa en grupo que tipo de reset debemos hacer al iniciar nuestros proyectos
+
+**Participantes**: todos
+
+**Instrucciones**: Se trabaja en grupo para lograr crear un reset de la clase que a partir de ese momento todos usen
+
+lo mínimo necesario es:
+
+```
+* {
+margin: 0;
+padding: 0;
+}
+
+```
+--------
+
+### III. Modelo de caja 
+
+POR HACER, Creo que hay que mostrar cada propiedad de CSS relacionada con la caja pintandola de colores para que se note, y lñuego inspeccionar en CHROME para ver como se mira. También se ve border box
+
+**Participantes**: todos
+
+**Instrucciones**: POR HACER
+
+
+---
+
+
+### IV. Agregar al reset el box-sizing: border-box
+
+Una vez que se ha enseñado a los alumnos el modelo de caja, y para que sirve box-sizing, se agrega esto a nuestra hoja de reset
+
+**Participantes**: todos
+
+**Instrucciones**: Los alumnos completan su reset y lo guardan
+
 
 ---
