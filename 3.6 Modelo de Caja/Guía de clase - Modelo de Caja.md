@@ -19,7 +19,7 @@ Terminamos utilizando las 3 propiedades que definen la caja, border, padding y m
 
 ### Presentación
 
-[Link a las diapositivas]()
+[Link a las diapositivas](https://docs.google.com/presentation/d/19J-B6VWbIBX7XRljIltm1RfKwBP3U8voQXhjTGhzucc/edit#slide=id.g472734ca5e_0_38)
 
 ## Conceptos
 
@@ -66,12 +66,14 @@ padding: 0;
 
 ### III. Modelo de caja 
 
-POR HACER, Creo que hay que mostrar cada propiedad de CSS relacionada con la caja pintandola de colores para que se note, y lñuego inspeccionar en CHROME para ver como se mira. También se ve border box.
-deberíamos usar la pizarra como la caja y un papel que este dentro pegado con masking como el contenido
+Graficar el modelo de caja haciendo uso de la pizarra papel y hojas y plumones.
 
 **Participantes**: todos
 
-**Instrucciones**: POR HACER
+**Instrucciones**: 
+Los alumnos en grupo deberan graficar el modelo de caja en la pizarra con los materiales facilitades, deberán utilizar los valores brindados por los facilitadores y los tamaños deberán guardar concordancia.
+por ejemplo:
+se les puede pedir que creen una caja con un padding:20px, y un border:10px, etc.
 
 
 ---
