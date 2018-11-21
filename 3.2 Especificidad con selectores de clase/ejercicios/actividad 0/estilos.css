@@ -4,6 +4,8 @@
 * agregar !important a fondo rojo para entender por qué gana
 * Pedir que piensen como podemos escribir una sentencia que le gane a fondo-rojo con !important
 
+**/
+
 h1 {
   background-color: black;
 }

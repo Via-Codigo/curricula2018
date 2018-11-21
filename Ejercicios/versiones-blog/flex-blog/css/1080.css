@@ -1,0 +1,13 @@
+@media (min-width: 1080px) {
+  html {
+    font-size: 16px;
+  }
+
+  .contenedor {
+    padding: calc(var(--espacio-base) * 2);
+  }
+  .main-menu {
+    justify-content: space-around;
+    margin: calc(var(--espacio-base) * 2) 0 var(--espacio-base);
+  }
+}

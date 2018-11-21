@@ -1,0 +1,89 @@
+/** Colores básicos **/
+
+:root {
+  --blanco: #fff;
+  --celeste: #ecf8f8;
+  --azul: #4e8098;
+  --marron: #b2967d;
+  --texto-oscuro: #1c2321;
+  --texto-claro: #5e6572;
+  --active: #c3bef7;
+  --action: #8a4fff;
+  --plomo: #5e6572;
+  --espacio-base: 20px;
+}
+html {
+  font-size: 10px;
+}
+body {
+  background-color: var(--celeste);
+  color: var(--texto-claro);
+  box-sizing: border-box;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+strong,
+blockquote {
+  color: var(--texto-oscuro);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  text-transform: capitalize;
+}
+
+a {
+  color: var(--action);
+}
+
+a:hover,
+a:focus {
+  color: var(--active);
+}
+
+img {
+  width: 100%;
+  max-width: 100%;
+}
+
+p,
+a {
+  font-size: 1.6rem;
+  line-height: 1.4;
+}
+p {
+}
+
+h6 {
+  font-size: 1.6rem;
+  margin: 1rem 0;
+}
+h5 {
+  font-size: 1.8rem;
+  margin: 1.2rem 0;
+}
+h4 {
+  font-size: 2rem;
+  margin: 1.4rem 0;
+}
+h3 {
+  font-size: 2.4rem;
+  margin: 1.6rem 0;
+}
+h2 {
+  font-size: 3rem;
+  margin: 1.8rem 0;
+}
+h1 {
+  font-size: 4.2rem;
+  margin: 2rem 0;
+}

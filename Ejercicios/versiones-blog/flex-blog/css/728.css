@@ -1,0 +1,17 @@
+@media (min-width: 728px) {
+  html {
+    font-size: 14px;
+  }
+
+  .articles-container {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .article-preview {
+    width: calc(46% - var(--espacio-base));
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+}

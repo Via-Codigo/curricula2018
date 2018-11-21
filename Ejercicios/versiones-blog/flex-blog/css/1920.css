@@ -1,0 +1,9 @@
+@media (min-width: 1920px) {
+  html {
+    font-size: 18px;
+  }
+
+  .main-menu a {
+    font-size: 1.3rem;
+  }
+}
