@@ -1,0 +1,62 @@
+body {
+  background: grey;
+}
+
+h2 {
+  background-color: #fff;
+  text-align: center;
+  font-size: 45px;
+}
+.caja {
+  border: 5px solid darkblue;
+  background-color: aqua;
+}
+.caja-1 {
+  margin-left: 50px;
+  margin-top: 100px;
+  padding: 30px;
+}
+
+.caja-2 {
+  width: 450px;
+  margin-top: 50px;
+  padding-left: 100px;
+}
+
+.caja-3 {
+  width: 450px;
+  padding-right: 50px;
+  padding-top: 50px;
+  margin-left: 350px;
+  margin-top: 50px;
+}
+
+.caja-4 {
+  width: 450px;
+  padding: 40px;
+  margin-left: 650px;
+  margin-top: 50px;
+}
+
+.caja-5 {
+  width: 450px;
+  padding-bottom: 40px;
+  margin-left: 650px;
+  margin-top: 50px;
+}
+
+.caja-6 {
+  width: 450px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  margin-left: 650px;
+  margin-top: 50px;
+}
+
+.caja-7 {
+  width: 450px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  margin-left: 150px;
+  margin-top: -486px;
+}

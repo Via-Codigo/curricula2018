@@ -14,7 +14,7 @@
 
 Primero se enseñará a los alumnos que hay unos estilos por defecto que vienen con los navegadores.
 Enseñamos como hacer reset de los mismos (de forma sencilla).
-Luego los alumnos se familiarizan con el modelo de caja y los elementos visuales que lo componen. 
+Luego los alumnos se familiarizan con el modelo de caja y los elementos visuales que lo componen.
 Terminamos utilizando las 3 propiedades que definen la caja, border, padding y margin.
 
 ### Presentación
@@ -27,7 +27,7 @@ Terminamos utilizando las 3 propiedades que definen la caja, border, padding y m
 - estilos por defecto
 - box-sizing
 - border
-- padding 
+- padding
 - margin
 
 ## Actividades
@@ -41,7 +41,6 @@ Los alumnos crean un HTML nuevo que tenga todas las etiquetas que conocen, e int
 **Participantes**: todos
 
 **Instrucciones**: Los alumnos crean un HTML nuevo que tenga todas las etiquetas que conocen, e intentan descubrir que estilos por defecto traen
-
 
 ---
 
@@ -62,22 +61,21 @@ padding: 0;
 }
 
 ```
---------
 
-### III. Modelo de caja 
+## El trabajo final debe ser el del archivo reset.css
+
+### III. Modelo de caja
 
 Graficar el modelo de caja haciendo uso de la pizarra papel y hojas y plumones.
 
 **Participantes**: todos
 
-**Instrucciones**: 
+**Instrucciones**:
 Los alumnos en grupo deberan graficar el modelo de caja en la pizarra con los materiales facilitades, deberán utilizar los valores brindados por los facilitadores y los tamaños deberán guardar concordancia.
 por ejemplo:
 se les puede pedir que creen una caja con un padding:20px, y un border:10px, etc.
 
-
 ---
-
 
 ### IV. Agregar al reset el box-sizing: border-box
 
@@ -86,6 +84,5 @@ Una vez que se ha enseñado a los alumnos el modelo de caja, y para que sirve bo
 **Participantes**: todos
 
 **Instrucciones**: Los alumnos completan su reset y lo guardan
-
 
 ---
