@@ -60,3 +60,29 @@ h2 {
   margin-left: 150px;
   margin-top: -486px;
 }
+
+.caja-a {
+  margin: 100px 200px;
+  background-color: blueviolet;
+  border: 10px solid #fff;
+  padding: 20px;
+}
+
+.caja-b {
+  background-color: #56fa34;
+  border: 10px solid dotted;
+  padding: 35px 60px;
+}
+
+.caja-c {
+  background-color: #05faff;
+  border: 3px solid grey;
+  margin: 40px 0 0 0;
+  padding: 25px;
+}
+
+.caja-d {
+  background-color: #af0034;
+  border: 10px solid #eeaa00;
+  padding: 10px;
+}
