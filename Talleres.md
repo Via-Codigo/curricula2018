@@ -10,7 +10,7 @@ Se otrogará un reconocimiento por asistencia al taller al graduarse del curso.
 | T00    | ¿Que es la computación?        | Ernesto Cuadros                 | 13.10.2018 | Principios básicos de la computación y el pensamiento computacional |
 | T01    | Git Básico                     | Pepe Miyashiro                  | 10.11.2018 | Crar un repo y gestión de cambios                                   |
 | T02    | Derechos Digitales             | Miguel Morachimo e Hiperderecho | 24.11.2018 |                                                                     |
-| T03    | Transiciones y Animaciones CSS | Martín Ríos                     | 08.12.2018 | Como realizar tyransiciones y animaciones en CSS                    |
+| T03    | Transiciones y Animaciones CSS | Martín Ríos                     | 12.01.2019 | Como realizar tyransiciones y animaciones en CSS                    |
 | T05    | Que es UI/UX                   | Anaís Freitas y Gonzalo Loayza  | enero 2019 | Introducción al UI/UX                                               |
 | T\*\*  | SCSS con prepros               | Pepe Miyashiro?                 |            | Aprender a crear CSS modular con SCSS y Prepros, variables          |
 | T\*\*  | BEM                            | Esen Espinosa?                  |            |                                                                     | Aprender a organizar el código de forma profesional con BEM y SCSS |
