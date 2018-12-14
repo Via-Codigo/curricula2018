@@ -1,6 +1,6 @@
-# Evaluación HTML
+# Evaluación HTML/CSS
 
-**Módulo 2 - Intro HTML**
+**Módulo 3 - CSS Básico**
 
 ## Objetivos
 
