@@ -21,6 +21,14 @@ Los alumnos aprenden la importancia de los formularios HTML, sus elementos y atr
 - atributos: `type`, `placeholder`, `required`, `focus`, etc.
 
 ## Actividades
+### 0. Identificar campos de formulario
+
+En parejas identificar los campos del formulario mostrado en la diapositiva
+
+**Participantes**: todos
+
+**Instrucciones**: En parejas identificar los campos del formulario mostrado en la diapositiva
+
 
 ---
 
