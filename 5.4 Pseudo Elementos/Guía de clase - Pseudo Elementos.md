@@ -1,17 +1,29 @@
-
 # Pseudo Elementos
 
 **Módulo 5 - [PONER Título]**
 
 ## Objetivos
 
+Se enseña a los alumnos a trabajar con los pseudo elementos y para que sirven
+
+Se les entrega una [lista](https://docs.google.com/document/d/1D-cgDCsMNr329Ssurg4aM4ROU7gFQG2ALx5skuGodyw/edit?usp=sharing) de los pseudo elementos.
+
 ## Descripción corta
+
+Los alumnos aprenderán a usar los pseudo elementos, haciendo principal énfasis en after y before durante los ejercicios, y enseñando por que son necesarios, porque son una mejor opción que los IMG para los íconos, y como usar font awesome.
 
 ### Presentación
 
 [Link a las diapositivas]()
 
 ## Conceptos
+
+- pseudo elementos
+- ::before
+- ::after
+- ::selected
+- ::first-line
+- ::first-letter
 
 ## Actividades
 
@@ -28,6 +40,3 @@ Explicación breve actividad
 #### Material Actividad
 
 ---
-
-
-

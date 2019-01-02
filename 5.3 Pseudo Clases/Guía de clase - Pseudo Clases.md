@@ -1,17 +1,32 @@
-
 # Pseudo Clases
 
-**Módulo 5 - [PONER Título]**
+**Módulo 5 - CSS Avanzado**
 
 ## Objetivos
 
+Los alumnos aprenderán que existen varias pseudo clases y practicarán con las principales.
+
+Se les entrega un [listado](https://docs.google.com/document/d/1_HXQDgvrPu0UEqUKJo16-Vj2Wc_ZkckujDlxVmonQZU/edit?usp=sharing) de todas las pseudo clases y que hacen
+
 ## Descripción corta
+
+Los alumnos aprenderán a generar UI que comunican al usuario a través del uso de pseudo clases.
 
 ### Presentación
 
 [Link a las diapositivas]()
 
 ## Conceptos
+
+- :hover
+- :visited
+- :valid
+- :required
+- :focus
+- :first-child
+- :last-child
+- :nth-child
+- :not
 
 ## Actividades
 
@@ -28,6 +43,3 @@ Explicación breve actividad
 #### Material Actividad
 
 ---
-
-
-
