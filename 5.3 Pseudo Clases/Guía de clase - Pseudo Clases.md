@@ -1,6 +1,6 @@
 # Pseudo Clases
 
-**Módulo 5 - CSS Avanzado**
+**Módulo 5 - HTMl/CSS Avanzado**
 
 ## Objetivos
 
