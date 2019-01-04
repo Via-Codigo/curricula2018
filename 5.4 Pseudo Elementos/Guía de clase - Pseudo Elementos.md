@@ -1,6 +1,6 @@
 # Pseudo Elementos
 
-**Módulo 5 - [PONER Título]**
+**Módulo 5 - HTMl/CSS Avanzado**
 
 ## Objetivos
 
@@ -14,7 +14,7 @@ Los alumnos aprenderán a usar los pseudo elementos, haciendo principal énfasis
 
 ### Presentación
 
-[Link a las diapositivas]()
+[Link a las diapositivas](https://drive.google.com/open?id=1Vo-nMrBIBMjQYZokmqvbRIoOLg79HijUgnglI93-Amw)
 
 ## Conceptos
 

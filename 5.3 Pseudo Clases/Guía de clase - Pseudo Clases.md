@@ -14,7 +14,7 @@ Los alumnos aprenderán a generar UI que comunican al usuario a través del uso 
 
 ### Presentación
 
-[Link a las diapositivas]()
+[Link a las diapositivas](https://docs.google.com/presentation/d/10jS9midT6tlp3e7cPYCZtWSNz_74ro4SHNU447Uj5TU/edit?usp=sharing)
 
 ## Conceptos
 
