@@ -32,14 +32,16 @@ Los alumnos aprenderán a generar UI que comunican al usuario a través del uso 
 
 ---
 
-### I. nombre actividad
+### I. Ejercicios con pseudoclases
 
-Explicación breve actividad
+Se probarán las distintas pseudoclases
 
-**Participantes**: #
+**Participantes**: todos
 
-**Instrucciones**: instrucciones de la actividad
+**Instrucciones**: Todos los ejemplos de la diapositiva tienen un ejemplo que los alumnos deben seguir. Se les pide que creen un documento llamado **pseudoclases.html** donde puedan ir practicando
 
 #### Material Actividad
+
+la diapositiva principal.
 
 ---

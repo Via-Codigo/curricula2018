@@ -18,7 +18,6 @@ Los alumnos aprenderán a usar los pseudo elementos, haciendo principal énfasis
 
 ## Conceptos
 
-- pseudo elementos
 - ::before
 - ::after
 - ::selected
@@ -29,14 +28,16 @@ Los alumnos aprenderán a usar los pseudo elementos, haciendo principal énfasis
 
 ---
 
-### I. nombre actividad
+### I. Ejercicios con pseudoelementos
 
-Explicación breve actividad
+Se probarán los distintos pseudoelementos
 
-**Participantes**: #
+**Participantes**: todos
 
-**Instrucciones**: instrucciones de la actividad
+**Instrucciones**: Todos los ejemplos de la diapositiva tienen un ejemplo que los alumnos deben seguir. Se les pide que creen un documento llamado **pseudoelementos.html** donde puedan ir practicando
 
 #### Material Actividad
+
+la diapositiva principal.
 
 ---
