@@ -16,26 +16,14 @@ Los alumnos aprenden distintos tipos de campos avanzados para el manejo de fecha
 
 ## Conceptos
 
-- Range, 
+- Range, Date, Checkbox, radio, file, etc.
 ## Actividades
-### 0. Identificar campos de formulario
-
-En parejas identificar los campos del formulario mostrado en la diapositiva
-
-**Participantes**: todos
-
-**Instrucciones**: En parejas identificar los campos del formulario mostrado en la diapositiva
-
-
----
 
 ### I. Crear un formulario
 
-Creamos nuestro primer formulario
+Creamos un formulario utilizando campos avanzados
 
 **Participantes**: todos
 
-**Instrucciones**: Crear un formulario para que los potenciales clientes escriban a viacodigo para solicitar una cotización de una pagina web.
-
----
+**Instrucciones**: Crear un formulario para que los usuarios puedan solicitar asesoría sobre que carrera elegir para estudiar.
 
