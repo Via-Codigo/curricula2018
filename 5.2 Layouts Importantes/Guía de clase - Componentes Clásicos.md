@@ -1,11 +1,15 @@
 
-# Layouts Importantes
+# Componentes Clásicos
 
 **Módulo 5 - HTML/CSS Avanzado**
 
 ## Objetivos
 
+Enseñar a usar lo aprendido de HTML y CSS para realizar componentes clásicos de las webs
+
 ## Descripción corta
+
+Se enseñará a los alumnos a crear componentes HTML muy comúnes en las páginas web. Verán como aplicar lo aprendido para poder crear patrones de diseño más avanzados y que generan una mejor experiencia de usuario
 
 ### Presentación
 
