@@ -1,6 +1,6 @@
 # Trabajando con otros Frameworks de CSS
 
-**Módulo 7 - Frameworks **
+**Módulo 7 - Frameworks**
 
 ## Objetivos
 - El alumno conoce  otras alternativas a BS4.
