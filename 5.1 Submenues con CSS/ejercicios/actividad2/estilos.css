@@ -52,8 +52,21 @@ header {
   position: absolute;
   transition: all 0.5s ease;
   margin-top: 16px;
-  left: 0;
+  left: -25vw;
   display: none;
+}
+
+.producto {
+  margin: 50px;
+}
+
+.titulo-producto {
+  color: #16415e;
+  margin: 10px 0;
+}
+
+.link-producto:hover {
+  text-decoration: underline;
 }
 
 .menu li:hover > .submenu,
@@ -61,4 +74,11 @@ header {
   visibility: visible;
   opacity: 1;
   display: block;
+}
+
+.menu li:hover > .submenu--mega,
+.menu li .submenu--mega:hover {
+  visibility: visible;
+  opacity: 1;
+  display: flex;
 }
