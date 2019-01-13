@@ -22,6 +22,7 @@ Los alumnos aprenderán a usar Media queries para poder crear páginas responsiv
 
 - Media Queries
 - Responsive
+- Breakpoints
 - Chrome Dev Tools Simulador de dispositivos
 - Xrespond
 
@@ -68,5 +69,19 @@ Vamos a crear un landing responsive completo
 #### Material Actividad
 
 Ver carpeta de ejercicios/actividad3
+
+---
+
+### IV. Panel de advertencia en medidas no soportadas
+
+Vamos a enseñar como crerar un panel de advertencia que aparece cuando el usuario está viendo la web en un tamaño que no es óptimo
+
+**Participantes**: todos
+
+**Instrucciones**: Los alumnos deberán implementar un Modal que aparezca cuando los usuarios estén viendo la web en una medida extraña: 490px width hasta 700 px width
+
+#### Material Actividad
+
+Ver carpeta de ejercicios/actividad4
 
 ---
