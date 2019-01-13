@@ -13,7 +13,7 @@ El alumno aprende como utilizar los distintos componentes de BS4 en sus proyecto
 
 ### Presentación
 
-[Link a las diapositivas](https://drive.google.com/open?id=1gjALXiRYj7MfA7qYT93UG4QGoZ8nC3CVITdWIlnN77c)
+[Link a las diapositivas](https://docs.google.com/presentation/d/1gjALXiRYj7MfA7qYT93UG4QGoZ8nC3CVITdWIlnN77c)
 
 ## Conceptos
 - Alerts

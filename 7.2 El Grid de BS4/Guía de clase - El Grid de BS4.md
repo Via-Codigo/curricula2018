@@ -17,7 +17,7 @@ Los alumnos conozcan y entiendan como funciona el grid de bootstrap 4, ademas de
 
 ### Presentación
 
-[Link a las diapositivas](https://docs.google.com/presentation/d/1TbpEUDX7PkxtSGctIkEtKWBAxVvOY-3rkQdC3e9wKvI)
+[Link a las diapositivas]()
 
 ## Conceptos
 - Conteiners
@@ -36,7 +36,7 @@ Los alumnos utilizan el sistema de grillas de bootstrap para hacer una pagina we
 
 **Participantes**: Todos
 
-**Instrucciones**: Se les pide a los alumnos maquetar una web sencilla basandote de una imagen, y utilizando el sistema de grillas de BS4.
+**Instrucciones**: Se les pide a los alumnos maquetar una web sencilla basandote de una imagen, y utilizando el sistema de grillas de BT4.
 
 #### Material Actividad
 
