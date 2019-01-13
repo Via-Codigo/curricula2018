@@ -36,7 +36,7 @@ Los alumnos utilizan el sistema de grillas de bootstrap para hacer una pagina we
 
 **Participantes**: Todos
 
-**Instrucciones**: Se les pide a los alumnos maquetar una web sencilla basandote de una imagen, y utilizando el sistema de grillas de BT4.
+**Instrucciones**: Se les pide a los alumnos maquetar una web sencilla basandote de una imagen, y utilizando el sistema de grillas de BS4.
 
 #### Material Actividad
 
