@@ -8,6 +8,7 @@
 - Los alumnos aprenderán los usos más comunes de Media Queries
 - Los alumnos aprenderán La sintaxis de Media Queries
 - Los alumnos aprenderán sobre la metodología responsive
+- Los alumnos aprenderán a usar el simulador de dispositivos de Chrome DevTools
 
 ## Descripción corta
 
@@ -21,6 +22,8 @@ Los alumnos aprenderán a usar Media queries para poder crear páginas responsiv
 
 - Media Queries
 - Responsive
+- Chrome Dev Tools Simulador de dispositivos
+- Xrespond
 
 ## Actividades
 
@@ -37,5 +40,33 @@ Mostraremos cambios básicos en distintos tamaños de pantallas
 #### Material Actividad
 
 Ver carpeta de ejercicios/actividad1
+
+---
+
+### II. Construyendo un menu responsive
+
+Usando el fixed menu que creamos en 5.2 haremos un menú responsive.
+
+**Participantes**: todos
+
+**Instrucciones**: Se piensa en voz alta con los alumnos como podemos utilizar lo aprendido para poder realizar un menú responsive. Una vez decididmos juntos una metodología adecuada, la implementamos.
+
+#### Material Actividad
+
+Ver carpeta de ejercicios/actividad2
+
+---
+
+### III. Construyendo un landing Responsive
+
+Vamos a crear un landing responsive completo
+
+**Participantes**: todos
+
+**Instrucciones**: Los alumnos deberán implementar el diseño de un landing para 3 tamaños de dispositivos
+
+#### Material Actividad
+
+Ver carpeta de ejercicios/actividad3
 
 ---
