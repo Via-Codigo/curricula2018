@@ -1,10 +1,17 @@
 # Aprendiendo Media Queries
 
-**Módulo 6 - [PONER Título]**
+**Módulo 6 - Media Queries**
 
 ## Objetivos
 
+- Los alumnos aprenderán que son los Media Queries
+- Los alumnos aprenderán los usos más comunes de Media Queries
+- Los alumnos aprenderán La sintaxis de Media Queries
+- Los alumnos aprenderán sobre la metodología responsive
+
 ## Descripción corta
+
+Los alumnos aprenderán a usar Media queries para poder crear páginas responsive. Trabajaremos ejercicios básicos donde veremos como cambiar fondos y esconder menúes para tablets y celulares
 
 ### Presentación
 
@@ -12,18 +19,23 @@
 
 ## Conceptos
 
+- Media Queries
+- Responsive
+
 ## Actividades
 
 ---
 
-### I. nombre actividad
+### I. Cambiando fondos y letras con Media Queries
 
-Explicación breve actividad
+Mostraremos cambios básicos en distintos tamaños de pantallas
 
-**Participantes**: #
+**Participantes**: todos
 
-**Instrucciones**: instrucciones de la actividad
+**Instrucciones**: Siguiendo los pasos del profesor, los alumnos deben realizar la web de la actividad 1, donde crearemos un landing de una web en construcción que sea responsive.
 
 #### Material Actividad
+
+Ver carpeta de ejercicios/actividad1
 
 ---
