@@ -92,8 +92,9 @@ except Exception as e:
 
 try:
     os.makedirs(f"{folder_name}/ejercicios")
-    os.makedirs(f"{folder_name}/inicio")
-    os.makedirs(f"{folder_name}/final")
+    # Estos deberían salir de una opción de configuración
+    # os.makedirs(f"{folder_name}/inicio")
+    # os.makedirs(f"{folder_name}/final")
 except Exception as e:
     print(e)
     print("Alguna carpeta ya existe")
