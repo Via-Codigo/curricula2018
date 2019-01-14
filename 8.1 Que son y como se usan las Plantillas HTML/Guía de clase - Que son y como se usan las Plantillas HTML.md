@@ -31,7 +31,7 @@ Se realizará un sitio web basado en los clientes ficticios utilizando una plant
 **Participantes**: Todos
 
 **Instrucciones**: En parejas, los alumnos deberán elegir uno de los clientes ficticios, leer sobre su marca y necesidades, y elegir del banco de plantillas o de internet, una plantilla para trabajar el proyecto.
-
+Deberán entregar un informe que sustente por qué eligieron la plantilla seleccionada y como les fue trabajando con lantilas.
 
 #### Material Actividad
 
