@@ -24,14 +24,18 @@ Los alumnos aprenden que son las plantillas web y como usarlas para sus proyecto
 
 ---
 
-### I. Usar plantilla
+### I. Proyecto con plantilla
 
-Se realizará un sitio web de contenido propio utilizando una plantilla seleccionada por el alumno
+Se realizará un sitio web basado en los clientes ficticios utilizando una plantilla
 
 **Participantes**: Todos
 
-**Instrucciones**: El alumno creará un sitio web utilizando como base la plantilla seleccionada.
+**Instrucciones**: En parejas, los alumnos deberán elegir uno de los clientes ficticios, leer sobre su marca y necesidades, y elegir del banco de plantillas o de internet, una plantilla para trabajar el proyecto.
+
 
 #### Material Actividad
+
+- Banco de plantillas en la carpeta de material
+- Listado de clientes en la carpeta de ejercicios/actividad1
 
 ---
