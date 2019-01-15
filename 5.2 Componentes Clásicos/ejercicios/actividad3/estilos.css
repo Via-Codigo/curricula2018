@@ -27,3 +27,69 @@ ol,
 ul {
   list-style: none;
 }
+
+body {
+  background-color: #ececed;
+}
+
+.carta {
+  height: 350px;
+  width: 200px;
+  border: 2px solid #000;
+  border-radius: 5%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+}
+
+.carta--1 {
+  background-color: aqua;
+  left: 20px;
+  /* z-index: 10; */
+}
+.carta--2 {
+  background-color: red;
+  left: 40px;
+  /* z-index: 9; */
+}
+.carta--3 {
+  background-color: rgb(41, 165, 165);
+  left: 60px;
+  /* z-index: 8; */
+}
+.carta--4 {
+  background-color: rgb(94, 255, 0);
+  left: 80px;
+  /* z-index: 7; */
+}
+.carta--5 {
+  background-color: rgb(0, 102, 255);
+  left: 100px;
+  /* z-index: 6; */
+}
+.carta--6 {
+  background-color: rgb(95, 67, 148);
+  left: 120px;
+  /* z-index: 5; */
+}
+.carta--7 {
+  background-color: rgb(174, 0, 255);
+  left: 140px;
+  /* z-index: 4; */
+}
+.carta--8 {
+  background-color: rgb(255, 60, 0);
+  left: 160px;
+  /* z-index: 3; */
+}
+.carta--9 {
+  background-color: rgba(51, 255, 0, 0.349);
+  left: 180px;
+  /* z-index: 2; */
+}
+.carta--10 {
+  background-color: rgb(89, 0, 255);
+  left: 200px;
+  /* z-index: 1; */
+}
