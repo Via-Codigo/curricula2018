@@ -27,3 +27,55 @@ ol,
 ul {
   list-style: none;
 }
+
+body {
+  background-color: #ececed;
+  min-height: 200vh;
+}
+
+.contenido {
+  max-width: 1200px;
+}
+.menu-contenedor {
+  background-color: #fff;
+}
+.menu {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 80px;
+}
+.menu a {
+  text-decoration: none;
+  color: #f05351;
+  transition: color 500ms;
+}
+
+.menu li:hover > a {
+  color: #fff;
+}
+
+.menu li {
+  padding: 0 20px;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  transition: background-color 500ms;
+  cursor: pointer;
+}
+.menu li:hover {
+  background-color: cornflowerblue;
+}
+
+.footer {
+  background-color: #000;
+  color: #fff;
+  display: flex;
+  justify-content: space-around;
+  padding: 20px 0;
+}
+
+.header-fijo {
+  position: fixed;
+  width: 100%;
+}

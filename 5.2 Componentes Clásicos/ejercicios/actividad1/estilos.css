@@ -37,7 +37,12 @@ body {
 }
 
 .contenido {
-  min-height: 200vh;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.separador-superior-lg {
+  margin-top: 100px;
 }
 .menu-contenedor {
   background-color: #fff;
@@ -70,6 +75,21 @@ body {
   background-color: cornflowerblue;
 }
 
+.cuadrados-contendedor {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+.cuadrado {
+  width: 500px;
+  height: 500px;
+  background-color: #f05351;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
 .footer {
   background-color: #000;
   color: #fff;
