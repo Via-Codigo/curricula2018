@@ -35,15 +35,23 @@ body {
 
 .contenido {
   max-width: 1200px;
+  margin: 0 auto;
+  margin-left: 200px;
+}
+
+.separador-superior-lg {
+  padding-top: 100px;
 }
 .menu-contenedor {
   background-color: #fff;
+  width: 100%;
 }
 .menu {
   display: flex;
   justify-content: space-around;
   align-items: center;
-  height: 80px;
+
+  flex-direction: column;
 }
 .menu a {
   text-decoration: none;
@@ -56,10 +64,12 @@ body {
 }
 
 .menu li {
-  padding: 0 20px;
+  padding: 20px 20px;
   height: 100%;
+  width: 100%;
   display: flex;
   align-items: center;
+  justify-content: center;
   transition: background-color 500ms;
   cursor: pointer;
 }
@@ -67,6 +77,21 @@ body {
   background-color: cornflowerblue;
 }
 
+.cuadrados-contendedor {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+.cuadrado {
+  width: 500px;
+  height: 500px;
+  background-color: #f05351;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
 .footer {
   background-color: #000;
   color: #fff;
@@ -77,5 +102,7 @@ body {
 
 .header-fijo {
   position: fixed;
-  width: 100%;
+  width: 200px;
+  height: 100vh;
+  background-color: #fff;
 }
