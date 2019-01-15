@@ -36,6 +36,20 @@ Mostraremos cambios básicos en distintos tamaños de pantallas
 
 **Participantes**: todos
 
+**Instrucciones**: Los alumnos agregarán media queries a algún proyecto que hayan realizado, haciendo que cambien el fondo, y las propiedades de tipografía.
+
+#### Material Actividad
+
+Cualquier ejercicio previo que elijan
+
+---
+
+### II. Web en construcción responsive
+
+Mostraremos cambios básicos en distintos tamaños de pantallas
+
+**Participantes**: todos
+
 **Instrucciones**: Siguiendo los pasos del profesor, los alumnos deben realizar la web de la actividad 1, donde crearemos un landing de una web en construcción que sea responsive.
 
 #### Material Actividad
@@ -44,7 +58,7 @@ Ver carpeta de ejercicios/actividad1
 
 ---
 
-### II. Construyendo un menu responsive
+### III. Construyendo un menu responsive
 
 Usando el fixed menu que creamos en 5.2 haremos un menú responsive.
 
@@ -58,7 +72,7 @@ Ver carpeta de ejercicios/actividad2
 
 ---
 
-### III. Construyendo un landing Responsive
+### IV. Construyendo un landing Responsive
 
 Vamos a crear un landing responsive completo
 
@@ -72,7 +86,7 @@ Ver carpeta de ejercicios/actividad3
 
 ---
 
-### IV. Panel de advertencia en medidas no soportadas
+### V. Panel de advertencia en medidas no soportadas
 
 Vamos a enseñar como crerar un panel de advertencia que aparece cuando el usuario está viendo la web en un tamaño que no es óptimo
 

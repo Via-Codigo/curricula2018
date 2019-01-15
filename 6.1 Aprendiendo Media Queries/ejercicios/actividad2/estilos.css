@@ -1,0 +1,87 @@
+html,
+body,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ul,
+li,
+ol,
+a,
+main,
+section,
+article,
+div,
+footer,
+header,
+span {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ol,
+ul {
+  list-style: none;
+}
+
+body {
+  background-color: rgb(30, 80, 173);
+  color: rgb(30, 4, 54);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.contenedor {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.construc {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 100px;
+}
+
+.construc img {
+  height: 275px;
+  width: 275px;
+}
+h1 {
+  padding: 50px 0;
+  color: rgba(223, 13, 58, 0.767);
+}
+.construc-content {
+  display: flex;
+}
+
+.construc-text {
+  padding: 0 50px;
+}
+
+.construc-text p {
+  margin-bottom: 20px;
+}
+
+.construc-text a {
+  color: rgba(223, 13, 58, 0.767);
+}
+footer {
+  padding: 20px;
+  background-color: rgba(223, 13, 58, 0.767);
+  text-align: center;
+  color: #fff;
+}
+
+@media only screen and (max-width: 767px) {
+  .construc-content {
+    flex-direction: column;
+    align-items: center;
+  }
+}

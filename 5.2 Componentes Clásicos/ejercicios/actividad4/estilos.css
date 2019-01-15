@@ -155,3 +155,14 @@ body {
   visibility: hidden;
   opacity: 0;
 }
+
+/*  Regla general */
+body {
+  background-color: black;
+}
+/* Regla para pantallas menores a 480px */
+@media only screen and(max-width: 480px) {
+  body {
+    background-color: aqua;
+  }
+}
