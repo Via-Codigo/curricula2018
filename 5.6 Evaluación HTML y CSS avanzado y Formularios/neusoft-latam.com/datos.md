@@ -8,6 +8,7 @@
 - letra-blanca: #ffffff
 - letra ploma: #3e3e3e;
 - fondo-negro-transparente-modal: rgba(0,0,0, 0.8)
+- gris-modal: #c1c1c1
 
 ## Tipografía
 
@@ -34,9 +35,9 @@ h1{
 
 El tamaño de la letra es 16px en todas partes excepto en el título de contáctenos en que es 120px;
 
-## Wrapper
+## Contenedor
 
-El contenedor mide 1670px de ancho
+El contenedor mide 1670px de ancho. Ten en cuenta que la imagen del mapa no tiene contenedor.
 
 ```
 .contenedor{
