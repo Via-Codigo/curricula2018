@@ -50,7 +50,7 @@ Mostraremos cambios básicos en distintos tamaños de pantallas
 
 **Participantes**: todos
 
-**Instrucciones**: Siguiendo los pasos del profesor, los alumnos deben realizar la web de la actividad 1, donde crearemos un landing de una web en construcción que sea responsive.
+**Instrucciones**: Siguiendo los pasos del profesor, los alumnos deben realizar la web de la actividad 2, donde crearemos un landing de una web en construcción que sea responsive.
 
 #### Material Actividad
 
