@@ -50,7 +50,7 @@ Mostraremos cambios básicos en distintos tamaños de pantallas
 
 **Participantes**: todos
 
-**Instrucciones**: Siguiendo los pasos del profesor, los alumnos deben realizar la web de la actividad 1, donde crearemos un landing de una web en construcción que sea responsive.
+**Instrucciones**: Siguiendo los pasos del profesor, los alumnos deben realizar la web de la actividad 2, donde crearemos un landing de una web en construcción que sea responsive.
 
 #### Material Actividad
 
@@ -82,20 +82,20 @@ Vamos a crear un landing responsive completo
 
 #### Material Actividad
 
-Ver carpeta de ejercicios/actividad3
+Ver carpeta de ejercicios/actividad4
 
 ---
 
 ### V. Panel de advertencia en medidas no soportadas
 
-Vamos a enseñar como crerar un panel de advertencia que aparece cuando el usuario está viendo la web en un tamaño que no es óptimo
+Vamos a enseñar como crerar un panel de advertencia que aparece cuando el usuario está viendo la web en un tamaño que no es óptimo o en una posición incorrecta
 
 **Participantes**: todos
 
-**Instrucciones**: Los alumnos deberán implementar un Modal que aparezca cuando los usuarios estén viendo la web en una medida extraña: 490px width hasta 700 px width
+**Instrucciones**: Los alumnos deberán implementar un Modal que aparezca cuando los usuarios estén viendo la web en un dispisitivo que no está echado
 
 #### Material Actividad
 
-Ver carpeta de ejercicios/actividad4
+Copiar el ejercicio de la diapositvia (revisar carpeta actividad5)
 
 ---
