@@ -134,13 +134,21 @@ body {
   display: block;
 }
 
+@media only screen and (max-width: 520px) {
+  .cuadrado {
+    max-width: 100vw;
+    max-height: 100vw;
+    margin-right: 0;
+  }
+}
+
 @media only screen and (max-width: 480px) {
   li.menu-item-lg {
     display: none;
   }
   li.menu-item-sm {
     display: flex;
-    width: 100%;
+    width: 100vw;
   }
   .hamburguesa {
     display: block;
