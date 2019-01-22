@@ -6,6 +6,7 @@
 
 - Los alumnos aprenderán la metodología mobile first
 - Los alumnos serán capaces de definir la diferencia entre las dos metodologías
+- Los alumnos podrán mencionar vetajas de la metodología
 
 ## Descripción corta
 
@@ -24,13 +25,13 @@ Se enseñará a los alumnos a trabajar pensando en Mobile first. Analizaremos po
 
 ---
 
-### I. Cambiando fondos y letras con Media Queries
+### I. Realizar landing en construcción mobile first
 
-Mostraremos cambios básicos en distintos tamaños de pantallas esta vez con la metodología Mobile First
+Realizaremos un trabajo previo con la nueva metodología
 
 **Participantes**: todos
 
-**Instrucciones**: Siguiendo los pasos del profesor, los alumnos deben realizar la web de la actividad 1, donde crearemos un landing de una web en construcción que sea responsive.
+**Instrucciones**: Los alumnos deben volver a realizar el trabajo de la actividad2 del módulo 6.1 esta vez con la metodología mobile first
 
 #### Material Actividad
 
