@@ -45,7 +45,7 @@ Vamos a crear un landing responsive completo con la metodología Mobile First
 
 **Participantes**: todos
 
-**Instrucciones**: Los alumnos deberán implementar el diseño de un landing para 3 tamaños de dispositivos utilizando la metodología Mobile First
+**Instrucciones**: Los alumnos deben volver a realizar el trabajo de la actividad2 del módulo 6.1 esta vez con la metodología mobile first
 
 #### Material Actividad
 

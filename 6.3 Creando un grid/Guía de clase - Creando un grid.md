@@ -6,7 +6,7 @@
 
 - Los alumnos aprenden sobre el concepto de grid
 - Los alumnos aprenden sobre grid responsive
-- Los alumnos aprenden como se construye un grid responsive
+- Los alumnos aprenden como se construye un grid responsive usando flex
 
 ## Descripción corta
 
