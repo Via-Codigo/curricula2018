@@ -13,7 +13,7 @@ Se enseñará a los alumnos a crear componentes HTML muy comúnes en las página
 
 ### Presentación
 
-[Link a las diapositivas](https://docs.google.com/presentation/d/1gjALXiRYj7MfA7qYT93UG4QGoZ8nC3CVITdWIlnN77c/edit?usp=drive_web&ouid=10959757560346703531)
+[Link a las diapositivas](https://drive.google.com/open?id=1qfRjjANIz-zq-Ax78lefw657ikoXLWl_SwX1ePKIRkE)
 
 ## Conceptos
 
