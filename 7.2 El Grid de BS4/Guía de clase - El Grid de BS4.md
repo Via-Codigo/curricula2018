@@ -32,11 +32,30 @@ Los alumnos conozcan y entiendan como funciona el grid de bootstrap 4, ademas de
 
 ### I. Usando grids de bootstrap
 
-Los alumnos utilizan el sistema de grillas de bootstrap para hacer una pagina web sencilla.
+Los alumnos utilizan el sistema de grillas de bootstrap para hacer una pagina web responsive sencilla.
 
 **Participantes**: Todos
 
-**Instrucciones**: Se les pide a los alumnos maquetar una web sencilla basandote de una imagen, y utilizando el sistema de grillas de BT4.
+**Instrucciones**: Crear una web con dos columnas a los extremos y una central que muestre contenido (lorem ipsum e imágenes)
+Al mirarse en un dispositivo móvil las columnas laterales deben desaparecer y la central utilizar el total del ancho de la pantalla.
+Todo esto solo utilizando bootstrap.
+
+### II. Usando grids de bootstrap
+
+Los alumnos utilizan el sistema de grillas de bootstrap para hacer una pagina web responsive sencilla.
+
+**Participantes**: Todos
+
+**Instrucciones**: Debes realizar la web del wireframe de Arqus utilizando el Grid de Bootstrap como base de la página. 
+
+A nivel de colores y tipos de letra puedes elegir hacerlo como te guste, solo se tendrá en cuenta que el sistema de grillas funcione como en el wireframe.
+
+se encuentra en la carpeta ejercicios/actividad2
+
+
+ 
+ 
+
 
 #### Material Actividad
 
