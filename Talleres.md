@@ -12,7 +12,7 @@ Se otrogará un reconocimiento por asistencia al taller al graduarse del curso.
 | T02    | Derechos Digitales              | Miguel Morachimo e Hiperderecho | 24.11.2018      |                                                                     |
 | T03    | Transiciones y Animaciones CSS  | Martín Ríos                     | 12.01.2019      | Como realizar tyransiciones y animaciones en CSS                    |
 | T04    | Introducción a los Video Juegos | Jerson La Torre                 | 19.01.2019      | Ejercicios introductorios sobre como hacer vieojuegos               |
-| T05    | Que es UI/UX                    | Anaís Freitas y Gonzalo Loayza  | 22 Febrero 2019 | Introducción al UI/UX                                               |
+| T05    | Que es UI/UX                    | Anaís Freitas y Gonzalo Loayza  | 1 Marzo 2019 | Introducción al UI/UX                                               |
 | T\*\*  | Comunicación Con clientes       | Reiva                           | Marzo 2019      | Que tener en cuenta para unabuena comunicación con clientes         |
 
 | T\*\* | BEM | Esen Espinosa? | | | Aprender a organizar el código de forma profesional con BEM y SCSS |
