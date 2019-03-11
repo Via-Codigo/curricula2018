@@ -114,7 +114,7 @@ Para tables existen las mismas clases, solo reemplaza la palabra **mobile** por 
 por ej.
 
 ```
-<div class="grid-container">
+
   <div class="grid-container">
     <div class="grid-50 mobile-grid-100 tablet-grid-60%">
         yo ocupo 50% de ancho en  escritorio.
@@ -138,8 +138,8 @@ por ej.
         </span>
 
     </div>
-    </div>
-</div>
+  </div>
+
 
 ```
 
